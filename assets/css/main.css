@@ -1105,7 +1105,7 @@
 
 	b, strong {
 		font-weight: 600;
-		color: #3e3e3e;
+		color: #585858;
 	}
 
 	i, em {
@@ -1618,7 +1618,7 @@
 		}
 
 		.wrapper.style4 {
-			background-color: #303030;
+			background-color: #00274e;
 			color: #999;
 			text-shadow: -1px -1px 0px #181818;
 		}
@@ -1632,20 +1632,20 @@
 			.wrapper.style4 form select,
 			.wrapper.style4 form textarea {
 				border: none;
-				background: #282828;
+				background: #001327;
 			}
 
 				.wrapper.style4 form input[type=text]:focus,
 				.wrapper.style4 form input[type=password]:focus,
 				.wrapper.style4 form select:focus,
 				.wrapper.style4 form textarea:focus {
-					background: #252525;
+					background: #001327;
 				}
 
 /* Nav */
 
 	#nav {
-		background-color: #282828;
+		background-color: #005ab3;
 		text-align: center;
 		position: fixed;
 		left: 0;
@@ -1672,7 +1672,7 @@
 		}
 
 			#nav a:hover {
-				color: #fff !important;
+				color: #0080ff !important;
 			}
 
 			#nav a.active:before {
