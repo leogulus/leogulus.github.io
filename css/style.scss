@@ -213,10 +213,11 @@ blockquote {
  */
 pre,
 code {
-    font-size: 15px;
-    border: 1px solid $grey-color-light;
+    font-family: monaco;
+    font-size: 12px;
+    border: 1px solid #e0e0e0;
     border-radius: 3px;
-    background-color: #eef;
+    background-color: #e0e0e0;
 }
 
 code {
@@ -612,7 +613,7 @@ pre {
     @extend %vertical-rhythm;
 
     .highlighter-rouge & {
-      background: #eef;
+      background: #e0e0e0;
     }
 
     .c     { color: #998; font-style: italic } // Comment
