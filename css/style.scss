@@ -98,7 +98,7 @@ ul, ol, dl, figure,
  * Images
  */
 img {
-    max-width: 100%;
+    max-width: 80%;
     vertical-align: middle;
 }
 
@@ -146,7 +146,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: #aaa !important;
+    color: #23238E !important;
     text-decoration: none;
 
     &:visited {
@@ -154,7 +154,7 @@ a {
     }
 
     &:hover {
-        color: black !important;
+        color: #23238E !important;
         border-bottom: 1px dotted black ;
     }
 
@@ -235,6 +235,10 @@ pre {
     }
 }
 
+
+.title {
+  color: #2E37FE;
+}
 
 
 /**
@@ -373,19 +377,19 @@ pre {
   position: relative;
 }
 .site-title {
-  font-size: 64px;
+  font-size: 55px;
   font-weight: 100;
   font-family: 'PT Sans';
   text-transform: capitalize;
   font-weight: 500;
-  margin-top: 1em;
+  margin-top: 1.0em;
   &,
   &:visited {
     color: $grey-color-dark;
   }
 }
 .site-description {
-  font-size: 14px;
+  font-size: 20px;
   letter-spacing: 2px;
   text-indent: 6px;
   font-family: 'Josefin Sans';
@@ -583,7 +587,7 @@ pre {
   margin-bottom: $spacing-unit;
   padding-bottom: 3em !important;
   p {
-    font-size: 1.2rem;
+    font-size: 1.0rem;
   }
   h2 {
     font-size: 32px;
