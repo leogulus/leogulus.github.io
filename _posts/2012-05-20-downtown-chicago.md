@@ -6,6 +6,7 @@ author: Taweewat Somboonpanyakul
 tags:
 - Chicago
 modified_time: '2013-11-03T15:40:02.799-06:00'
+categories: travel
 thumbnail: http://1.bp.blogspot.com/-ci6nZjaETGI/T_kGql-Y9tI/AAAAAAAAA7U/RjW3iPBRuSk/s72-c/IMG_0244.jpg
 blogger_id: tag:blogger.com,1999:blog-7436450042785574613.post-311164620512081328
 blogger_orig_url: http://leogulus-champ.blogspot.com/2012/05/downtown-chicago.html

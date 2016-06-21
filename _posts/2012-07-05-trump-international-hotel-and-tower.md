@@ -6,6 +6,7 @@ author: Taweewat Somboonpanyakul
 tags:
 - Chicago
 modified_time: '2013-10-19T10:17:26.121-05:00'
+categories: travel
 thumbnail: http://1.bp.blogspot.com/-QybDgG9OBbY/T_poCnHaS1I/AAAAAAAAA78/7yfY7vD5d_g/s72-c/Lightroom+(1+of+1)-2.jpg
 blogger_id: tag:blogger.com,1999:blog-7436450042785574613.post-1366118625583634921
 blogger_orig_url: http://leogulus-champ.blogspot.com/2012/07/trump-international-hotel-and-tower.html
