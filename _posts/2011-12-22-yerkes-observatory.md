@@ -19,7 +19,7 @@ blogger_orig_url: http://leogulus-champ.blogspot.com/2011/12/yerkes-observatory.
 <figcaption>Yerkes Observatory: University of Chicago's Observatory in Wisconsin</figcaption>
 </center></figure>
 
-Here is the Yerkes Observatory owned by University of Chicago even though it is roughly two-hours drive from the university. Yerkes is a home of [the world biggest refracting telescope]({{ site.url }}{{ page.categories}}/2011/12/21/40-inch-refractor-telescope-at-yerkes.html).  
+Here is the Yerkes Observatory owned by University of Chicago even though it is roughly two-hours drive from the university. Yerkes is a home of [the world biggest refracting telescope]().  
 
 I just feel like I should visit more observatories, not just because I want to travel to many different places, but also because they always remind me of what my dream was like when I was a kid. About 15s in front of the observatory that night was amazing. The sky is clear, but I could not remember anymore what are these constellations. The actually telescopes are located in both side of this building with this in the middle.
 
