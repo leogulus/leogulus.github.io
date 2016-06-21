@@ -4,7 +4,11 @@ title : About Me
 permalink: /about/
 ---
 
-![Boston Skylines](/images/taweewat.jpg)
+<figure><center>
+  <img width="500" src="/images/taweewat.jpg"/>
+</center></figure>
+
+<!--![Boston Skylines](/images/taweewat.jpg)-->
 
 ### About me
 

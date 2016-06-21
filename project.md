@@ -3,7 +3,7 @@ layout: page
 title: Project
 permalink: /project/
 category: "project"
-tagline: "This is where I collect all the small projects that I have done in the past."
+tagline: "How does a project get to be a year late? One day at a time."
 ---
 
 ## My Data Visualization Projects
