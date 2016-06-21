@@ -5,6 +5,7 @@ date: '2011-12-31T22:09:00.000-06:00'
 author: Taweewat Somboonpanyakul
 tags:
 - Chicago
+categories: travel
 modified_time: '2013-10-19T10:15:56.352-05:00'
 thumbnail: http://1.bp.blogspot.com/-yGs9O8TuLKU/T_j3LMih8WI/AAAAAAAAA6s/wIfIKouKCzE/s72-c/google_4.jpg
 blogger_id: tag:blogger.com,1999:blog-7436450042785574613.post-5513148108403494503

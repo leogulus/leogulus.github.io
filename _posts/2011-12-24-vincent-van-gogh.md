@@ -6,6 +6,7 @@ author: Taweewat Somboonpanyakul
 tags:
 - Art
 - Chicago
+categories: travel
 modified_time: '2014-08-26T13:30:03.753-05:00'
 thumbnail: http://3.bp.blogspot.com/-Thpl2jBp7Do/TvYzFNoS3qI/AAAAAAAAAz0/aPwb7CDC7jc/s72-c/IMG_0521.jpg
 blogger_id: tag:blogger.com,1999:blog-7436450042785574613.post-1226229804954673133
