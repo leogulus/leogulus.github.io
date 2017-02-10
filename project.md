@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Project
-permalink: /project/
-category: "project"
+title: Visualization
+permalink: /visualization/
+category: "visualization"
 tagline: "How does a project get to be a year late? One day at a time."
 ---
 

@@ -11,6 +11,7 @@ Cambridge, MA, 02139
 ### Research Interests
 - Galaxy Clusters
 - Large-scaled Surveys
+- High Energy Astrophysics, X-Ray
 
 ### Education
 - Ph.D. Candidate in Physics, Massachusetts Institute of Technology, present
