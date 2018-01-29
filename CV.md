@@ -56,3 +56,5 @@ Cambridge, MA, 02139
 
 ### Language
 English, Thai (native fluency)
+
+([Download PDF version of the CV](/extra_webpage/Taweewat_CV.pdf))
