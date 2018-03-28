@@ -1,12 +1,933 @@
 <!DOCTYPE html>
 <html>
+
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vega@3"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@3"></script>
+</head>
+
 <body>
 
 <h1>The relationship between Physics GRE and GPA or GRE Qualitative</h1>
+<p>
+  <strong>Author</strong>: Taweewat Somboonpanyakul<br>
+  <strong>Date</strong>: 12/23/2015, updated 3/28/17<br>
+  <strong>Sources</strong>: <a href="http://www.physicsgre.com">PhysicsGRE.com</a>
+</p>
 
-<style>
+<p>
+  <strong>First Plots</strong><br>
+  These first plots are the data from candidates who applied in 2015 with writing GRE score as the color of the first plot<br>
+  and aggregated in the second plot.
+</p>
 
-</style>
+<div id="vis"></div>
+<script type="text/javascript">
+  var spec = {
+"$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+"config": {
+  "view": {
+    "height": 300,
+    "width": 400
+  }
+},
+"data": {
+  "values": [
+    {
+      "PGRE": 910.0,
+      "QGRE": 167.0,
+      "VGRE": 162.0,
+      "WGRE": 4.0,
+      "a_GPA": 3.67,
+      "major_GPA": 3.84
+    },
+    {
+      "PGRE": 980.0,
+      "QGRE": 170.0,
+      "VGRE": 165.0,
+      "WGRE": 4.0,
+      "a_GPA": null,
+      "major_GPA": null
+    },
+    {
+      "PGRE": 910.0,
+      "QGRE": 167.0,
+      "VGRE": 166.0,
+      "WGRE": 4.0,
+      "a_GPA": 3.94,
+      "major_GPA": 3.93
+    },
+    {
+      "PGRE": null,
+      "QGRE": null,
+      "VGRE": null,
+      "WGRE": null,
+      "a_GPA": 3.8,
+      "major_GPA": 3.8
+    },
+    {
+      "PGRE": 750.0,
+      "QGRE": 162.0,
+      "VGRE": 160.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.4,
+      "major_GPA": 3.3
+    },
+    {
+      "PGRE": 990.0,
+      "QGRE": 170.0,
+      "VGRE": 166.0,
+      "WGRE": 5.0,
+      "a_GPA": 4.0,
+      "major_GPA": 4.0
+    },
+    {
+      "PGRE": 870.0,
+      "QGRE": 170.0,
+      "VGRE": 168.0,
+      "WGRE": 4.0,
+      "a_GPA": 3.3,
+      "major_GPA": 3.3
+    },
+    {
+      "PGRE": null,
+      "QGRE": 170.0,
+      "VGRE": 160.0,
+      "WGRE": 4.0,
+      "a_GPA": 3.98,
+      "major_GPA": 3.98
+    },
+    {
+      "PGRE": 640.0,
+      "QGRE": 164.0,
+      "VGRE": 159.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.6,
+      "major_GPA": 3.3
+    },
+    {
+      "PGRE": 960.0,
+      "QGRE": 165.0,
+      "VGRE": 167.0,
+      "WGRE": 4.0,
+      "a_GPA": 3.8,
+      "major_GPA": 3.9
+    },
+    {
+      "PGRE": 910.0,
+      "QGRE": 164.0,
+      "VGRE": 160.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.62,
+      "major_GPA": 3.56
+    },
+    {
+      "PGRE": 910.0,
+      "QGRE": 166.0,
+      "VGRE": 152.0,
+      "WGRE": null,
+      "a_GPA": 3.93,
+      "major_GPA": 3.91
+    },
+    {
+      "PGRE": 990.0,
+      "QGRE": 168.0,
+      "VGRE": 166.0,
+      "WGRE": 4.0,
+      "a_GPA": 4.0,
+      "major_GPA": 4.0
+    },
+    {
+      "PGRE": 990.0,
+      "QGRE": 170.0,
+      "VGRE": 161.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.95,
+      "major_GPA": 3.89
+    },
+    {
+      "PGRE": 660.0,
+      "QGRE": 167.0,
+      "VGRE": 168.0,
+      "WGRE": 5.0,
+      "a_GPA": 3.85,
+      "major_GPA": 3.77
+    },
+    {
+      "PGRE": 830.0,
+      "QGRE": 167.0,
+      "VGRE": 162.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.83,
+      "major_GPA": 3.93
+    },
+    {
+      "PGRE": 740.0,
+      "QGRE": 162.0,
+      "VGRE": 162.0,
+      "WGRE": 5.0,
+      "a_GPA": 3.5,
+      "major_GPA": 3.65
+    },
+    {
+      "PGRE": 800.0,
+      "QGRE": 159.0,
+      "VGRE": 159.0,
+      "WGRE": 4.0,
+      "a_GPA": 3.6,
+      "major_GPA": 4.0
+    },
+    {
+      "PGRE": 750.0,
+      "QGRE": 166.0,
+      "VGRE": 156.0,
+      "WGRE": 5.0,
+      "a_GPA": 3.625,
+      "major_GPA": null
+    },
+    {
+      "PGRE": 750.0,
+      "QGRE": 166.0,
+      "VGRE": 170.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.1,
+      "major_GPA": 3.2
+    },
+    {
+      "PGRE": null,
+      "QGRE": null,
+      "VGRE": null,
+      "WGRE": null,
+      "a_GPA": 2.86,
+      "major_GPA": 2.84
+    },
+    {
+      "PGRE": 990.0,
+      "QGRE": 167.0,
+      "VGRE": 164.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.7,
+      "major_GPA": 3.8
+    },
+    {
+      "PGRE": 580.0,
+      "QGRE": 169.0,
+      "VGRE": 158.0,
+      "WGRE": null,
+      "a_GPA": 3.33,
+      "major_GPA": 3.33
+    },
+    {
+      "PGRE": null,
+      "QGRE": 162.0,
+      "VGRE": 165.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.91,
+      "major_GPA": 3.93
+    },
+    {
+      "PGRE": 890.0,
+      "QGRE": 166.0,
+      "VGRE": 165.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.65,
+      "major_GPA": 3.55
+    },
+    {
+      "PGRE": 700.0,
+      "QGRE": 167.0,
+      "VGRE": 165.0,
+      "WGRE": 3.5,
+      "a_GPA": 3.7,
+      "major_GPA": 3.7
+    },
+    {
+      "PGRE": 970.0,
+      "QGRE": 170.0,
+      "VGRE": 169.0,
+      "WGRE": 5.5,
+      "a_GPA": 3.6,
+      "major_GPA": 3.52
+    },
+    {
+      "PGRE": 620.0,
+      "QGRE": 160.0,
+      "VGRE": 163.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.78,
+      "major_GPA": 3.9
+    },
+    {
+      "PGRE": 920.0,
+      "QGRE": 168.0,
+      "VGRE": 165.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.81,
+      "major_GPA": 3.79
+    },
+    {
+      "PGRE": 880.0,
+      "QGRE": 169.0,
+      "VGRE": 163.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.93,
+      "major_GPA": 3.97
+    },
+    {
+      "PGRE": null,
+      "QGRE": null,
+      "VGRE": null,
+      "WGRE": null,
+      "a_GPA": 3.11,
+      "major_GPA": 3.22
+    },
+    {
+      "PGRE": 840.0,
+      "QGRE": 165.0,
+      "VGRE": 167.0,
+      "WGRE": 5.5,
+      "a_GPA": 4.0,
+      "major_GPA": 4.0
+    },
+    {
+      "PGRE": 920.0,
+      "QGRE": 170.0,
+      "VGRE": 162.0,
+      "WGRE": 5.0,
+      "a_GPA": 3.98,
+      "major_GPA": 4.0
+    },
+    {
+      "PGRE": 900.0,
+      "QGRE": 169.0,
+      "VGRE": 164.0,
+      "WGRE": 5.5,
+      "a_GPA": 4.0,
+      "major_GPA": 4.0
+    },
+    {
+      "PGRE": 580.0,
+      "QGRE": 170.0,
+      "VGRE": 158.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.4,
+      "major_GPA": 3.44
+    },
+    {
+      "PGRE": 630.0,
+      "QGRE": 164.0,
+      "VGRE": 159.0,
+      "WGRE": 4.0,
+      "a_GPA": 4.0,
+      "major_GPA": 4.0
+    },
+    {
+      "PGRE": 990.0,
+      "QGRE": 170.0,
+      "VGRE": 162.0,
+      "WGRE": 5.0,
+      "a_GPA": 3.66,
+      "major_GPA": 3.66
+    },
+    {
+      "PGRE": 900.0,
+      "QGRE": 162.0,
+      "VGRE": 159.0,
+      "WGRE": 4.0,
+      "a_GPA": 4.0,
+      "major_GPA": 4.0
+    },
+    {
+      "PGRE": 860.0,
+      "QGRE": 154.0,
+      "VGRE": 165.0,
+      "WGRE": 4.0,
+      "a_GPA": 3.83,
+      "major_GPA": 3.83
+    },
+    {
+      "PGRE": 770.0,
+      "QGRE": 170.0,
+      "VGRE": 169.0,
+      "WGRE": 3.5,
+      "a_GPA": 3.8,
+      "major_GPA": null
+    },
+    {
+      "PGRE": null,
+      "QGRE": 166.0,
+      "VGRE": 160.0,
+      "WGRE": null,
+      "a_GPA": 3.1,
+      "major_GPA": 3.3
+    },
+    {
+      "PGRE": 600.0,
+      "QGRE": 163.0,
+      "VGRE": 160.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.7,
+      "major_GPA": 3.79
+    },
+    {
+      "PGRE": 820.0,
+      "QGRE": 168.0,
+      "VGRE": 167.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.78,
+      "major_GPA": 3.94
+    },
+    {
+      "PGRE": 880.0,
+      "QGRE": 167.0,
+      "VGRE": 157.0,
+      "WGRE": 3.5,
+      "a_GPA": 3.93,
+      "major_GPA": 4.0
+    },
+    {
+      "PGRE": 650.0,
+      "QGRE": 170.0,
+      "VGRE": 160.0,
+      "WGRE": 4.0,
+      "a_GPA": 3.6,
+      "major_GPA": 4.0
+    },
+    {
+      "PGRE": 980.0,
+      "QGRE": 170.0,
+      "VGRE": 169.0,
+      "WGRE": 3.5,
+      "a_GPA": 4.0,
+      "major_GPA": 4.0
+    },
+    {
+      "PGRE": 600.0,
+      "QGRE": 163.0,
+      "VGRE": 162.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.6,
+      "major_GPA": null
+    },
+    {
+      "PGRE": null,
+      "QGRE": null,
+      "VGRE": null,
+      "WGRE": null,
+      "a_GPA": 2.35,
+      "major_GPA": 2.9
+    },
+    {
+      "PGRE": 770.0,
+      "QGRE": 167.0,
+      "VGRE": 165.0,
+      "WGRE": 5.5,
+      "a_GPA": 3.8,
+      "major_GPA": 3.8
+    },
+    {
+      "PGRE": 720.0,
+      "QGRE": 170.0,
+      "VGRE": 168.0,
+      "WGRE": 3.5,
+      "a_GPA": null,
+      "major_GPA": null
+    },
+    {
+      "PGRE": 900.0,
+      "QGRE": 162.0,
+      "VGRE": 163.0,
+      "WGRE": 5.0,
+      "a_GPA": 3.8,
+      "major_GPA": 3.8
+    },
+    {
+      "PGRE": null,
+      "QGRE": null,
+      "VGRE": null,
+      "WGRE": null,
+      "a_GPA": 3.5,
+      "major_GPA": 3.6
+    },
+    {
+      "PGRE": 800.0,
+      "QGRE": 170.0,
+      "VGRE": 156.0,
+      "WGRE": 5.0,
+      "a_GPA": 3.57,
+      "major_GPA": 3.42
+    },
+    {
+      "PGRE": 980.0,
+      "QGRE": 168.0,
+      "VGRE": 158.0,
+      "WGRE": 4.0,
+      "a_GPA": 3.7,
+      "major_GPA": 3.7
+    },
+    {
+      "PGRE": 990.0,
+      "QGRE": 166.0,
+      "VGRE": 167.0,
+      "WGRE": 3.5,
+      "a_GPA": 3.8,
+      "major_GPA": 3.8
+    },
+    {
+      "PGRE": 680.0,
+      "QGRE": 170.0,
+      "VGRE": 163.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.9,
+      "major_GPA": null
+    },
+    {
+      "PGRE": 780.0,
+      "QGRE": 169.0,
+      "VGRE": 155.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.7,
+      "major_GPA": 3.71
+    },
+    {
+      "PGRE": null,
+      "QGRE": null,
+      "VGRE": null,
+      "WGRE": null,
+      "a_GPA": null,
+      "major_GPA": 3.7
+    },
+    {
+      "PGRE": 590.0,
+      "QGRE": 166.0,
+      "VGRE": 160.0,
+      "WGRE": 5.0,
+      "a_GPA": 3.55,
+      "major_GPA": 3.36
+    },
+    {
+      "PGRE": 640.0,
+      "QGRE": 157.0,
+      "VGRE": 164.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.66,
+      "major_GPA": 3.55
+    },
+    {
+      "PGRE": 990.0,
+      "QGRE": 168.0,
+      "VGRE": 166.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.9,
+      "major_GPA": null
+    },
+    {
+      "PGRE": 890.0,
+      "QGRE": 170.0,
+      "VGRE": 166.0,
+      "WGRE": 5.0,
+      "a_GPA": 3.84,
+      "major_GPA": 3.89
+    },
+    {
+      "PGRE": 790.0,
+      "QGRE": 165.0,
+      "VGRE": 166.0,
+      "WGRE": 4.0,
+      "a_GPA": 3.45,
+      "major_GPA": 3.55
+    },
+    {
+      "PGRE": 950.0,
+      "QGRE": 170.0,
+      "VGRE": 168.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.68,
+      "major_GPA": 3.87
+    },
+    {
+      "PGRE": 990.0,
+      "QGRE": 163.0,
+      "VGRE": 143.0,
+      "WGRE": 2.5,
+      "a_GPA": 3.6,
+      "major_GPA": 3.6
+    },
+    {
+      "PGRE": 940.0,
+      "QGRE": 167.0,
+      "VGRE": 156.0,
+      "WGRE": 3.0,
+      "a_GPA": 3.86,
+      "major_GPA": 3.93
+    },
+    {
+      "PGRE": 640.0,
+      "QGRE": 159.0,
+      "VGRE": 159.0,
+      "WGRE": 3.0,
+      "a_GPA": 3.87,
+      "major_GPA": 3.88
+    },
+    {
+      "PGRE": null,
+      "QGRE": 156.0,
+      "VGRE": 150.0,
+      "WGRE": null,
+      "a_GPA": 3.5,
+      "major_GPA": 3.95
+    },
+    {
+      "PGRE": null,
+      "QGRE": 170.0,
+      "VGRE": 166.0,
+      "WGRE": 5.0,
+      "a_GPA": 3.8,
+      "major_GPA": 3.9
+    },
+    {
+      "PGRE": 990.0,
+      "QGRE": 170.0,
+      "VGRE": 163.0,
+      "WGRE": 5.0,
+      "a_GPA": 4.0,
+      "major_GPA": 4.0
+    },
+    {
+      "PGRE": 580.0,
+      "QGRE": 153.0,
+      "VGRE": 153.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.81,
+      "major_GPA": 3.77
+    },
+    {
+      "PGRE": 680.0,
+      "QGRE": 157.0,
+      "VGRE": 159.0,
+      "WGRE": 5.0,
+      "a_GPA": 3.85,
+      "major_GPA": 3.93
+    },
+    {
+      "PGRE": null,
+      "QGRE": null,
+      "VGRE": null,
+      "WGRE": 4.0,
+      "a_GPA": null,
+      "major_GPA": null
+    },
+    {
+      "PGRE": 810.0,
+      "QGRE": 168.0,
+      "VGRE": 164.0,
+      "WGRE": 5.0,
+      "a_GPA": 3.34,
+      "major_GPA": 3.44
+    },
+    {
+      "PGRE": null,
+      "QGRE": 169.0,
+      "VGRE": 160.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.85,
+      "major_GPA": 3.9
+    },
+    {
+      "PGRE": 710.0,
+      "QGRE": 170.0,
+      "VGRE": 163.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.73,
+      "major_GPA": 3.8
+    },
+    {
+      "PGRE": 840.0,
+      "QGRE": 166.0,
+      "VGRE": 155.0,
+      "WGRE": 4.0,
+      "a_GPA": 3.96,
+      "major_GPA": 3.92
+    },
+    {
+      "PGRE": 990.0,
+      "QGRE": 170.0,
+      "VGRE": 163.0,
+      "WGRE": 4.0,
+      "a_GPA": 4.0,
+      "major_GPA": 4.0
+    },
+    {
+      "PGRE": 910.0,
+      "QGRE": 168.0,
+      "VGRE": 168.0,
+      "WGRE": 5.0,
+      "a_GPA": 3.9,
+      "major_GPA": 3.86
+    },
+    {
+      "PGRE": 960.0,
+      "QGRE": null,
+      "VGRE": null,
+      "WGRE": 4.5,
+      "a_GPA": null,
+      "major_GPA": null
+    },
+    {
+      "PGRE": 990.0,
+      "QGRE": 170.0,
+      "VGRE": 164.0,
+      "WGRE": 5.0,
+      "a_GPA": 3.99,
+      "major_GPA": 4.0
+    },
+    {
+      "PGRE": 700.0,
+      "QGRE": 166.0,
+      "VGRE": 149.0,
+      "WGRE": 4.0,
+      "a_GPA": 3.4,
+      "major_GPA": 3.55
+    },
+    {
+      "PGRE": null,
+      "QGRE": null,
+      "VGRE": null,
+      "WGRE": null,
+      "a_GPA": 4.0,
+      "major_GPA": 4.0
+    },
+    {
+      "PGRE": 850.0,
+      "QGRE": 161.0,
+      "VGRE": 160.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.5,
+      "major_GPA": 3.75
+    },
+    {
+      "PGRE": 990.0,
+      "QGRE": 168.0,
+      "VGRE": 170.0,
+      "WGRE": 4.0,
+      "a_GPA": 3.96,
+      "major_GPA": 3.95
+    },
+    {
+      "PGRE": 810.0,
+      "QGRE": 156.0,
+      "VGRE": 155.0,
+      "WGRE": 4.0,
+      "a_GPA": 3.6,
+      "major_GPA": 3.75
+    },
+    {
+      "PGRE": 690.0,
+      "QGRE": 164.0,
+      "VGRE": 166.0,
+      "WGRE": 4.0,
+      "a_GPA": 3.76,
+      "major_GPA": 3.7
+    },
+    {
+      "PGRE": 820.0,
+      "QGRE": 170.0,
+      "VGRE": 167.0,
+      "WGRE": 4.0,
+      "a_GPA": 3.63,
+      "major_GPA": 3.81
+    },
+    {
+      "PGRE": 850.0,
+      "QGRE": 163.0,
+      "VGRE": 167.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.3,
+      "major_GPA": 3.3
+    },
+    {
+      "PGRE": 960.0,
+      "QGRE": 168.0,
+      "VGRE": 162.0,
+      "WGRE": 3.5,
+      "a_GPA": 3.99,
+      "major_GPA": 3.98
+    },
+    {
+      "PGRE": 750.0,
+      "QGRE": 158.0,
+      "VGRE": 151.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.7,
+      "major_GPA": 3.66
+    },
+    {
+      "PGRE": 620.0,
+      "QGRE": 160.0,
+      "VGRE": 164.0,
+      "WGRE": 4.0,
+      "a_GPA": 3.9,
+      "major_GPA": 3.9
+    },
+    {
+      "PGRE": 670.0,
+      "QGRE": 164.0,
+      "VGRE": 155.0,
+      "WGRE": 3.5,
+      "a_GPA": 3.89,
+      "major_GPA": 3.94
+    },
+    {
+      "PGRE": 680.0,
+      "QGRE": 163.0,
+      "VGRE": 163.0,
+      "WGRE": 4.0,
+      "a_GPA": 3.45,
+      "major_GPA": 3.25
+    },
+    {
+      "PGRE": 990.0,
+      "QGRE": 165.0,
+      "VGRE": 155.0,
+      "WGRE": 3.0,
+      "a_GPA": 4.0,
+      "major_GPA": null
+    },
+    {
+      "PGRE": 580.0,
+      "QGRE": 163.0,
+      "VGRE": 161.0,
+      "WGRE": 5.0,
+      "a_GPA": 3.4,
+      "major_GPA": 3.5
+    },
+    {
+      "PGRE": 900.0,
+      "QGRE": 162.0,
+      "VGRE": 162.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.85,
+      "major_GPA": 3.95
+    },
+    {
+      "PGRE": 680.0,
+      "QGRE": 163.0,
+      "VGRE": 156.0,
+      "WGRE": 5.5,
+      "a_GPA": 3.39,
+      "major_GPA": 3.55
+    },
+    {
+      "PGRE": 600.0,
+      "QGRE": 152.0,
+      "VGRE": 157.0,
+      "WGRE": 4.5,
+      "a_GPA": 3.6,
+      "major_GPA": 3.5
+    }
+  ]
+},
+"vconcat": [
+  {
+    "encoding": {
+      "color": {
+        "condition": {
+          "field": "WGRE",
+          "selection": "selector089",
+          "type": "quantitative"
+        },
+        "value": "lightgray"
+      },
+      "x": {
+        "axis": {
+          "title": "Physics GRE"
+        },
+        "field": "PGRE",
+        "scale": {
+          "domain": [
+            500,
+            1000
+          ]
+        },
+        "type": "quantitative"
+      },
+      "y": {
+        "axis": {
+          "title": "Overall GPA"
+        },
+        "field": "a_GPA",
+        "scale": {
+          "domain": [
+            2.8,
+            4.1
+          ]
+        },
+        "type": "quantitative"
+      }
+    },
+    "mark": {
+      "size": 100,
+      "type": "circle"
+    },
+    "selection": {
+      "selector089": {
+        "type": "interval"
+      }
+    },
+    "width": 500
+  },
+  {
+    "encoding": {
+      "color": {
+        "field": "WGRE",
+        "type": "quantitative"
+      },
+      "x": {
+        "aggregate": "count",
+        "field": "WGRE",
+        "scale": {
+          "domain": [
+            0,
+            30
+          ]
+        },
+        "type": "quantitative"
+      },
+      "y": {
+        "field": "WGRE",
+        "scale": {
+          "domain": [
+            2.5,
+            5.5
+          ]
+        },
+        "type": "quantitative"
+      }
+    },
+    "height": 100,
+    "mark": "bar",
+    "transform": [
+      {
+        "filter": {
+          "selection": "selector089"
+        }
+      }
+    ],
+    "width": 500
+  }
+]
+};
+  var opt = {"renderer": "canvas", "actions": false};
+  vegaEmbed("#vis", spec, opt);
+</script>
+
+
+<p>
+  <strong>Second Plots</strong><br>
+  Blue dots represent candidates who applied to Physics PhD program in 2015 while red dots represent those who applied in 2014.<br>
+  The dataset is by no means representing the true sample of all Physics PhD candidates, but it give us a first look into any possible correlation between Physics GRE scores and the other two criterions. <br>
+</p>
 
 <div id="fig_el9110845500092329927587944"></div>
 <script>
@@ -45,19 +966,6 @@ if(typeof(mpld3) !== "undefined" && mpld3._mpld3IsLoaded){
          });
 }
 </script>
-
-
-<p>
-  Blue dots represent candidates who applied to Physics PhD program in 2015 while red dots represent those who applied in 2014.<br>
-  The dataset is by no means representing the true sample of all Physics PhD candidates, but it give us a first look into any possible correlation between Physics GRE scores and the other two criterions. <br>
-</p>
-
-<p>
-  <strong>Author</strong>: Taweewat Somboonpanyakul<br>
-  <strong>Date</strong>: 12/23/2015<br>
-  <strong>Sources</strong>: <a href="http://www.physicsgre.com">PhysicsGRE.com</a>
-</p>
-
 
 </body>
 </html>
