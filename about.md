@@ -24,3 +24,7 @@ I am currently at MIT in the Physics PhD program (started in Fall 2015) with a f
 
 ### Why I'm Here
 This website is acted as my personal portfolio for what I have done in terms of academics with my Astrophysics researches, and my other interests including data visualization and outreach works.
+
+### Links for Articles/Interviews about Me
+- [Young researchers present on the global stage](https://medium.com/sparrho/young-researchers-present-on-the-global-stage-part-6-1a24b73e1a9d) from Sparrho (The third person, in English)
+- [แชมป์ “เด็กทุนโอลิมปิกวิชาการคนเก่ง” กับชีวิตที่มหาลัยระดับโลกMIT](http://australianbigsister.com/%E0%B9%81%E0%B8%8A%E0%B8%A1%E0%B8%9B%E0%B9%8C-%E0%B9%82%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%9B%E0%B8%B4%E0%B8%84-mit/) from Big Sister Australia (in Thai)
