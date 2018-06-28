@@ -6,8 +6,11 @@ tagline: “The cosmos is within us. We are made of star-stuff. We are a way for
 ---
 
 <figure><center>
-  <img width="500" src="/images/tokyo.jpg"/>
+  <img width="120%" src="/images/index_photo3.jpg"/>
+  <figcaption>Left - The Sunset view from Magellan telescope, Chile. Right - Me in Tokyo, JP</figcaption>
 </center></figure>
+
+<!-- ![taweewat](/images/index_photo.jpg){:style="margin-right: auto;margin-left: auto;margin-top: 7px;margin-bottom: 7px;width: 100%"} -->
 
 I am a graduate student in [the Physics Department](http://web.mit.edu/physics/) and [Kavli Institute](http://space.mit.edu/) at Massachusetts Institute of Technology. This is my professional website about the my research and my other interests.
 
