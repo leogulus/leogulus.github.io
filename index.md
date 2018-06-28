@@ -9,9 +9,9 @@ tagline: “The cosmos is within us. We are made of star-stuff. We are a way for
   <img width="500" src="/images/tokyo.jpg"/>
 </center></figure>
 
-I am a graduate student in the Physics Department and Kavli Institute at Massachusetts Institute of Technology. This is my professional website about the my research and my interests.
+I am a graduate student in [the Physics Department](http://web.mit.edu/physics/) and [Kavli Institute](http://space.mit.edu/) at Massachusetts Institute of Technology. This is my professional website about the my research and my other interests.
 
-I study galaxy clusters and my current project is identifying Phoenix-like clusters through cross-correlating all-sky survey datas, including ROSAT (X-ray), 2MASS (Near IR), WISE, (Mid IR), NVSS/SUMSS (Radio).
+I study galaxy clusters, the largest known gravitationally bound structures in the universe. My current project involves identifying Phoenix-like clusters through cross-correlating all-sky survey datas, including ROSAT (X-ray), 2MASS (Near IR), WISE, (Mid IR), NVSS/SUMSS (Radio).
 
 <center>
 

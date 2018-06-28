@@ -2,28 +2,34 @@
 layout: page
 title : About Me
 permalink: /about/
-weight : 4
+weight : 6
 ---
-
+<!-- 
 <figure><center>
   <img width="500" src="/images/taweewat.jpg"/>
-</center></figure>
+</center></figure> -->
 
 <!--![Boston Skylines](/images/taweewat.jpg)-->
 
 ### About me
-My name is Taweewat Somboonpanyakul. I was born and raised in Bangkok, Thailand. I really enjoy traveling, especially to new places with new cultures. I also like to learn about their history, so that I can appreciate each location.
+![Trip to Machu Picchu](/images/11_Machu_Picchu.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;width: 40%"}
 
-### Education
+Hi everyone! My name is Taweewat Somboonpanyakul. Currently, I am a gradaute stuent in the Physics PhD program at MIT (started in Fall 2015) with a focus on Astrophysics. 
 
-I went to high school in Thailand at [Mahidol Wittayanusorn School (MWITS)](https://www.mwit.ac.th/mwit-eng/) before moving to North Carolina to [Asheville School](http://www.ashevilleschool.org/) to finish my senior year. Then, I got into University of Chicago where I studied physics as an undergraduate student.
+My current project with [Prof. Michael McDonald](http://space.mit.edu/~mcdonald/) is to look for new galaxy clusters which host extreme point source, such as active galactic nuclei (AGN), in the center of the cluster and study their properties to see how it has an effect on the cluster as a whole. I am working with both Optical (through Magellan/PANSTARRS/SDSS) and X-ray (with Chandra). As an observer, I have been to Magellen telescope, located at Las Campanas Observatory in Chile for multiple times. These trips are definitely one of the highlights for me to study astronomy and astrophysics in PhD.
 
-As an undergraduate student, I spent my first two summer working in astrophysics labs. My first research project was working on strong gravitational lensing. It was one of the first evidence, which proved 'general relativity'. My main topic for that project was to test the ability of find such gravitational lensings by creating fake arcs and seeing how completely we can detect these arcs. My second research topic was transiting exoplanets, which became famous less than twenty years ago. We worked with data from [Kepler Space Telescope](http://kepler.nasa.gov/), but unfortunately [the mission seemed to be stopped indefinitely](https://www.newscientist.com/article/dn23550-kepler-telescopes-planet-hunting-days-crunch-to-a-close/#.UcvCEj7wKT4) due to technical problems on a spinning wheel. The topic is about planets around short period binary stars. In addition for my senior thesis, I studied circumgalactic medium (ICM) using background quasars in group environment. From this project, I had some experience using spectrum in the optical (for composition of circumgalactic medium surrounding nearby galaxies) and UV (for absorption line from background QSOs) range.
+I was born and raised in Bangkok, Thailand. After going to both [Mahidol Wittayanusorn School (MWITS)](https://www.mwit.ac.th/mwit-eng/) in Thailand and [Asheville School](http://www.ashevilleschool.org/) in Ashville, NC for high school, I moved to the University of Chicago where I majored in physics as an undergrduate student.
 
-I am currently at MIT in the Physics PhD program (started in Fall 2015) with a focus on Astrophysics. My current project with [Prof. Michael McDonald](http://space.mit.edu/~mcdonald/) is to study the properties of galaxy clusters which host active galactic nuclei (AGN) in its brightest cluster galaxy (BCG). I am working mostly with optical (with Magellan/SDSS) and X-ray (with Chandra).
+As an undergraduate student, I spent my first two summers working in different astrophysics labs. My first research project was working on strong gravitational lensing with [Prof. Michael Gladders](https://astro.uchicago.edu/people/michael-d-gladders.php). Gravitational lensing was one of the predictions of Einstein's general theory of relativity. My main topic for that project was to test the ability of find such gravitational lensings by creating fake arcs and looking for how many we can detect. My second research topic was transiting exoplanets, which became a popular topic less than twenty years ago. I worked with [Prof. Daniel Fabrycky](http://astro.uchicago.edu/~fabrycky/), using the data from [Kepler Space Telescope](http://kepler.nasa.gov/). My topic on exoplanets is about planets around short period binary stars. In addition, I wrote my senior thesis with [Prof. Hsiao-wen Chen](https://lambda.uchicago.edu/) about the circumgalactic medium (ICM) in group environment using background quasars. From this project, I had some experience working with spectra in both optical (for composition of circumgalactic medium surrounding nearby galaxies) and UV (for absorption line from background QSOs) range.
 
-### Why I'm Here
-This website is acted as my personal portfolio for what I have done in terms of academics with my Astrophysics researches, and my other interests including data visualization and outreach works.
+Apart from doing work in astrophysics, I also enjoy traveling and being outdoor. One benefit of living in Massachusetts is that there are many hiking trails and beaches nearby. White Mountain National Forest in New Hamshire has some of the best views in this area. My other interest is board games. I love learning new games and playing games with family and friends. I really like the time we share together while playing board game without any distraction from all these connected devices that are all around us.
+<br>
+
+[<img src="/images/10_winter_hiking.jpg" style="float: left; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">](/images/10_winter_hiking.jpg)
+[<img src="/images/13_Falls.jpg" style="float: left; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">](/images/13_Falls.jpg)
+[<img src="/images/25_hiking.jpg" style="float: left; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">](/images/25_hiking.jpg)
+[<img src="/images/14_venice.jpg" style="float: left; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">](/images/14_venice.jpg)
+<p style="clear: both;"></p>
 
 ### Links for Articles/Interviews about Me
 - [Young researchers present on the global stage](https://medium.com/sparrho/young-researchers-present-on-the-global-stage-part-6-1a24b73e1a9d) from Sparrho (the third person in the page, in English)
