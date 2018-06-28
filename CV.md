@@ -30,7 +30,7 @@ Cambridge, MA, 02139
 - T. Somboonpanyakul, M. McDonald, H. W. Lin, B. Stalder, A. Stark, "The Clusters Hiding in Plain Sight (CHiPS) Survey: A First Discovery of a Massive Nearby Cluster around PKS1353-341", 2018, [2018arXiv180605676S](https://arxiv.org/abs/1806.05676), Accepted to ApJ Publication
 
 ### Contributed Talks and Posters
-- T. Somboonpanyakul, M. McDonald, Galaxy Clusters Hiding in Plain Sight (The CHiPS Survey) - Poster
+- T. Somboonpanyakul, M. McDonald, [Galaxy Clusters Hiding in Plain Sight (The CHiPS Survey) - Poster](http://www.physics.utah.edu/snowcluster/archive/2018/talks/Somboonpanyakul.pdf)
   - SnowCluster - The Physics of Galaxy Clusters, Snowbird, UT, 2018
   - Chandra Science for the Next Decade, Harvard University, Cambridge, MA, 2016
   - 227th Meeting American Astronomical Society, [AAS](https://aas.org/), Kissimmee, FL, 2016 <[2016AAS...22743907S](http://adsabs.harvard.edu/abs/2016AAS...22743907S)>  
