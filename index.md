@@ -17,7 +17,6 @@ I am a graduate student in [the Physics Department](http://web.mit.edu/physics/)
 I study galaxy clusters, the largest known gravitationally bound structures in the universe. My current project involves identifying Phoenix-like clusters through cross-correlating all-sky survey datas, including ROSAT (X-ray), 2MASS (Near IR), WISE, (Mid IR), NVSS/SUMSS (Radio).
 
 <center>
-
 <b>Contact</b> <br>
 MIT Kavli Institute for Astrophysics and Space Research <br>
 70 Vassar St, Cambridge, MA 02109 <br><br>
