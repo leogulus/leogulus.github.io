@@ -30,7 +30,3 @@ Apart from doing work in astrophysics, I also enjoy traveling and being outdoor.
 [<img src="/images/25_hiking.jpg" style="float: left; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">](/images/25_hiking.jpg)
 [<img src="/images/14_venice.jpg" style="float: left; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">](/images/14_venice.jpg)
 <p style="clear: both;"></p>
-
-### Links for Articles/Interviews about Me and My research
-- [**Young researchers present on the global stage**](https://medium.com/sparrho/young-researchers-present-on-the-global-stage-part-6-1a24b73e1a9d) from Sparrho (the third person in the page, in English)
-- [แชมป์ “เด็กทุนโอลิมปิกวิชาการคนเก่ง” กับชีวิตที่มหาลัยระดับโลกจาก MIT](http://australianbigsister.com/%E0%B9%81%E0%B8%8A%E0%B8%A1%E0%B8%9B%E0%B9%8C-%E0%B9%82%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%9B%E0%B8%B4%E0%B8%84-mit/) from Big Sister Australia (in Thai)

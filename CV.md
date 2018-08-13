@@ -2,7 +2,7 @@
 layout: page
 title : CV
 permalink: /cv/
-weight : 5
+weight : 6
 tagline: editted 06/28/2018
 ---
 MIT Kavli Institute, Massachusetts Institute of Technology\\

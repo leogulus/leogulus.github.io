@@ -27,12 +27,6 @@ I am interested in identifying nearby galaxy clusters (z~0.2-0.7) with QSO domin
 
 Our first newly discovered low-redshift (z = 0.223) galaxy cluster with a central X-ray bright point source, PKS1353-341 is presented here. The cluster has mass that are 700 trillions more than the mass of the sun or ~1200 times more massive than our Milky Way. The cluster hosts the extreme active galactic nuclei (AGN) in the center of the cluster which ejects enourmous energy to heat up its surrounding gas.
 
-### Links for Articles/Interviews about Me and My research
-- [Huge Galaxy Cluster Found Hiding in Plain Sight](https://www.space.com/41026-huge-galaxy-cluster-hiding-plain-sight.html) from Space.com, 6/28/2018
-- [Dazzling Galaxy Cluster Hiding In Plain Sight In Milky Way Neighborhood](http://infosurhoy.com/cocoon/saii/xhtml/en_GB/science/dazzling-galaxy-cluster-hiding-in-plain-sight-in-milky-way-neighborhood/) from Infosurhoy.com, 6/30/2018
-- [บทความพิเศษจากนักเรียนทุนรัฐบาลไทย: การค้นหากระจุกกาแล็กซีใหม่](http://ost.thaiembdc.org/th1/2018/02/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99/) from Office of Science and Technology, Royal Thai Embassy, DC (in Thai)
-
-
 ## Previous Talks and Presentation
 
 ### Journal Club Talks at MIT
