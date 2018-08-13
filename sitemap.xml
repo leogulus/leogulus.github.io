@@ -9,62 +9,72 @@
 
 <url>
   <loc>http://leogulus.github.io/</loc>
-  <lastmod>2018-01-29T19:35:48+00:00</lastmod>
+  <lastmod>2018-08-13T19:41:33+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>http://leogulus.github.io/index.html</loc>
-  <lastmod>2018-01-29T19:35:48+00:00</lastmod>
+  <lastmod>2018-08-13T19:41:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://leogulus.github.io/about/</loc>
-  <lastmod>2018-01-29T19:35:48+00:00</lastmod>
+  <lastmod>2018-08-13T19:41:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://leogulus.github.io/research/</loc>
-  <lastmod>2018-01-29T19:35:48+00:00</lastmod>
+  <lastmod>2018-08-13T19:41:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://leogulus.github.io/project/</loc>
-  <lastmod>2018-01-29T19:35:48+00:00</lastmod>
+  <loc>http://leogulus.github.io/press/</loc>
+  <lastmod>2018-08-13T19:41:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://leogulus.github.io/cv/</loc>
-  <lastmod>2018-01-29T19:35:48+00:00</lastmod>
+  <lastmod>2018-08-13T19:41:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://leogulus.github.io/project/</loc>
+  <lastmod>2018-08-13T19:41:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://leogulus.github.io/talks/16_3_4/index.html</loc>
-  <lastmod>2018-01-29T19:35:44+00:00</lastmod>
+  <lastmod>2018-08-13T19:41:26+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://leogulus.github.io/talks/17_4_21/index.html</loc>
-  <lastmod>2018-01-29T19:35:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://leogulus.github.io/extra_webpage/funding1.html</loc>
-  <lastmod>2018-01-29T19:35:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://leogulus.github.io/extra_webpage/fig.html</loc>
-  <lastmod>2018-01-29T19:35:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://leogulus.github.io/extra_webpage/seeing.pdf</loc>
-  <lastmod>2018-01-29T19:35:44+00:00</lastmod>
+  <lastmod>2018-08-13T19:41:26+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://leogulus.github.io/extra_webpage/Taweewat_CV.pdf</loc>
-  <lastmod>2018-01-29T19:35:44+00:00</lastmod>
+  <lastmod>2018-08-13T19:41:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://leogulus.github.io/extra_webpage/funding1.html</loc>
+  <lastmod>2018-08-13T19:41:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://leogulus.github.io/extra_webpage/fig.html</loc>
+  <lastmod>2018-08-13T19:41:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://leogulus.github.io/extra_webpage/chandra_line_plot.html</loc>
+  <lastmod>2018-08-13T19:41:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://leogulus.github.io/extra_webpage/seeing.pdf</loc>
+  <lastmod>2018-08-13T19:41:26+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
