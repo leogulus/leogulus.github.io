@@ -10,8 +10,6 @@ MIT Kavli Institute, Massachusetts Institute of Technology\\
 Cambridge, MA, 02139
 
 ### Links for Articles/Interviews about my research
-
-(https://phys.org/news/2018-08-sprawling-galaxy-cluster-plain-sight.html)
 - [**Sprawling galaxy cluster found hiding in plain sight**](http://news.mit.edu/2018/sprawling-galaxy-cluster-found-hiding-plain-sight-0816) from MIT News Office, [Phys.org](https://phys.org/news/2018-08-sprawling-galaxy-cluster-plain-sight.html), and [Fox News](http://www.foxnews.com/science/2018/08/17/sprawling-galaxy-cluster-discovered-hiding-in-plain-sight.html) 8/16/2018
 - [**New Massive Galaxy Cluster Discovered**](http://www.sci-news.com/astronomy/new-massive-galaxy-cluster-06317.html) from sci-news.com, 8/17/2018
 - [**Huge Galaxy Cluster Found Hiding in Plain Sight**](https://www.space.com/41026-huge-galaxy-cluster-hiding-plain-sight.html) from Space.com, 6/28/2018
