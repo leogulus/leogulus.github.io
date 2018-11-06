@@ -8,6 +8,7 @@ tagline: editted 06/28/2018
 MIT Kavli Institute, Massachusetts Institute of Technology\\
 77 Massachusetts Avenue, 37-241,\\
 Cambridge, MA, 02139
+([Download PDF version of the CV](/extra_webpage/Taweewat_CV.pdf))
 
 ### Research Interests
 - Galaxy Clusters
@@ -62,5 +63,3 @@ Cambridge, MA, 02139
 
 ### Language
 English, Thai (native fluency)
-
-([Download PDF version of the CV](/extra_webpage/Taweewat_CV.pdf))
