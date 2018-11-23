@@ -8,7 +8,7 @@ tagline: "How does a project get to be a year late? One day at a time."
 ---
 
 ## My Data Visualization Projects
-- **NEW**[Diagrams showing changes in Bangkok population from 2009 to 2016](/extra_webpage/bangkok_pop/index.html)
+- **NEW** [Diagrams showing changes in Bangkok population from 2009 to 2016](/extra_webpage/bangkok_pop/index.html)
 - [Jupyter notebook showing about MIT Astrophysics Alunmi in terms of their careers (current upto 2013)](http://nbviewer.jupyter.org/github/leogulus/Datavisualization/blob/master/mit_alumni/mit_alumni.ipynb?flush_cache=true)
 - [Diagram showing money providede by various funding agencies in the US in 2013 to the top 100 universities](/extra_webpage/funding1.html)
 - [Diagram showing no correlation between Physics GRE scores and GPA or General GRE quantitative section](/extra_webpage/fig.html)
