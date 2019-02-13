@@ -16,6 +16,7 @@ tagline: "Science is a perception of the world around us. Science is a place whe
 I am interested in identifying nearby galaxy clusters (z~0.2-0.7) with QSO dominant at the center, which have been mislabeled simply as a QSO in previous X-ray all-sky survey, such as ROSAT. One example of this misidentified galaxy cluster is the [*Phoenix Cluster*](http://adsabs.harvard.edu/abs/2012Natur.488..349M) (McDonald et al 2012), discovered recently using the Sunyaev–Zel'dovich effect with [the South Pole Telescope](https://pole.uchicago.edu/). This leads us to question of how many of these nearby galaxy cluster we have been mislabeled in existing all-sky surveys.
 
 ### First Galaxy Cluster from the *CHIPS* Survey: Galaxy Cluster surrounding PKS1353-341
+##### (Somboonpanyakul et al. 2018)
 <!-- <figure><center>
   <img width="500" src="/images/17214_img_full.png"/>
   <figcaption>Left: Chandra broad-band (0.5-7 keV) image for PKS1353-341 on a log-scale colorbar, showing the bright central point source and the surrounding diffuse cluster emission. Right: Magellan PISCO (g,r,i) image of the inner part of the galaxy cluster, showing the central giant elliptical galaxy.</figcaption>
@@ -26,6 +27,8 @@ I am interested in identifying nearby galaxy clusters (z~0.2-0.7) with QSO domin
 <p style="clear: both;"></p>
 
 Our first newly discovered low-redshift (z = 0.223) galaxy cluster with a central X-ray bright point source, PKS1353-341 is presented here. The cluster has mass that are 700 trillions more than the mass of the sun or ~1200 times more massive than our Milky Way. The cluster hosts the extreme active galactic nuclei (AGN) in the center of the cluster which ejects enourmous energy to heat up its surrounding gas.
+
+- [Download this paper](/extra_webpage/paper/1806.05676.pdf)
 
 ## Previous Talks and Presentation
 
