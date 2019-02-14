@@ -28,7 +28,7 @@ I am interested in identifying nearby galaxy clusters (z~0.2-0.7) with QSO domin
 
 Our first newly discovered low-redshift (z = 0.223) galaxy cluster with a central X-ray bright point source, PKS1353-341 is presented here. The cluster has mass that are 700 trillions more than the mass of the sun or ~1200 times more massive than our Milky Way. The cluster hosts the extreme active galactic nuclei (AGN) in the center of the cluster which ejects enourmous energy to heat up its surrounding gas.
 
-- [Download this paper](/extra_webpage/paper/1806.05676.pdf)
+- [Download this paper](/extra_webpage/papers/1806.05676.pdf)
 
 ## Previous Talks and Presentation
 
