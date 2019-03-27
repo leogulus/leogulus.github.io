@@ -21,12 +21,11 @@ I am interested in identifying nearby galaxy clusters (z~0.2-0.7) with QSO domin
   <figcaption>Left: Chandra broad-band (0.5-7 keV) image for PKS1353-341 on a log-scale colorbar, showing the bright central point source and the surrounding diffuse cluster emission. Right: Magellan PISCO (g,r,i) image of the inner part of the galaxy cluster, showing the central giant elliptical galaxy.</figcaption>
 </center></figure> -->
 
-- [Download the paper](/extra_webpage/papers/1806.05676.pdf)
 [<img src="/images/17214_img_full.png" style="float: left; width: 60%; margin-right: 1%; margin-bottom: 0.5em;">](/images/17214_img_full.png)
 *Left: Chandra broad-band (0.5-7 keV) image for PKS1353-341 on a log-scale colorbar, showing the bright central point source and the surrounding diffuse cluster emission. Right: Magellan PISCO (g,r,i) image of the inner part of the galaxy cluster, showing the central giant elliptical galaxy.*
 <p style="clear: both;"></p>
 
-Our first newly discovered low-redshift (z = 0.223) galaxy cluster with a central X-ray bright point source, PKS1353-341 is presented here. The cluster has mass that are 700 trillions more than the mass of the sun or ~1200 times more massive than our Milky Way. The cluster hosts the extreme active galactic nuclei (AGN) in the center of the cluster which ejects enourmous energy to heat up its surrounding gas.
+Our first newly discovered low-redshift (z = 0.223) galaxy cluster with a central X-ray bright point source, PKS1353-341 is presented here. The cluster has mass that are 700 trillions more than the mass of the sun or ~1200 times more massive than our Milky Way. The cluster hosts the extreme active galactic nuclei (AGN) in the center of the cluster which ejects enourmous energy to heat up its surrounding gas. [Download the paper](/extra_webpage/papers/1806.05676.pdf)
 
 ## Previous Talks and Presentation
 ### Journal Club Talks at MIT
