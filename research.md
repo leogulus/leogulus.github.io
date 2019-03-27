@@ -20,6 +20,7 @@ I am interested in identifying nearby galaxy clusters (z~0.2-0.7) with QSO domin
   <img width="500" src="/images/17214_img_full.png"/>
   <figcaption>Left: Chandra broad-band (0.5-7 keV) image for PKS1353-341 on a log-scale colorbar, showing the bright central point source and the surrounding diffuse cluster emission. Right: Magellan PISCO (g,r,i) image of the inner part of the galaxy cluster, showing the central giant elliptical galaxy.</figcaption>
 </center></figure> -->
+
 - [Download the paper](/extra_webpage/papers/1806.05676.pdf)
 [<img src="/images/17214_img_full.png" style="float: left; width: 60%; margin-right: 1%; margin-bottom: 0.5em;">](/images/17214_img_full.png)
 *Left: Chandra broad-band (0.5-7 keV) image for PKS1353-341 on a log-scale colorbar, showing the bright central point source and the surrounding diffuse cluster emission. Right: Magellan PISCO (g,r,i) image of the inner part of the galaxy cluster, showing the central giant elliptical galaxy.*
