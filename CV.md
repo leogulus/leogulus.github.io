@@ -27,11 +27,15 @@ Cambridge, MA, 02139 \\
 - [The Maroon Key Society](https://studentleaderawards.uchicago.edu/maroon.php), 2014-2015
 - Walter and Fay Selove Prize in Physics, 2013
 
-### Publication
-- T. Somboonpanyakul, M. McDonald, H. W. Lin, B. Stalder, A. Stark, "The Clusters Hiding in Plain Sight (CHiPS) Survey: A First Discovery of a Massive Nearby Cluster around PKS1353-341", 2018, [2018arXiv180605676S](https://arxiv.org/abs/1806.05676), Accepted to ApJ Publication
+### First-Author Publication
+- **T. Somboonpanyakul**, M. McDonald, H. W. Lin, B. Stalder, A. Stark, "The Clusters Hiding in Plain Sight (CHiPS) Survey: A First Discovery of a Massive Nearby Cluster around PKS1353-341", 2018, [2018arXiv180605676S](https://arxiv.org/abs/1806.05676), Accepted to ApJ Publication
+
+### Co-author Publication
+- M. McDonald, B. R. McNamara, G. M. Voit, ..., **T. Somboonpanyakul**, ..., "Anatomy of a Cooling Flow: The Feedback Response to Pure Cooling in the Core of the Phoenix Cluster", 2019, [2019arXiv190408942](https://arxiv.org/abs/1904.08942), Submitted to ApJ
 
 ### Contributed Talks and Posters
 - T. Somboonpanyakul, M. McDonald, [Galaxy Clusters Hiding in Plain Sight (The CHiPS Survey) - Poster](http://www.physics.utah.edu/snowcluster/archive/2018/talks/Somboonpanyakul.pdf)
+  - Tracing Cosmic Evolution with Clusters of Galaxies, Sesto (BZ), Italy, 2019
   - SnowCluster - The Physics of Galaxy Clusters, Snowbird, UT, 2018
   - Chandra Science for the Next Decade, Harvard University, Cambridge, MA, 2016
   - 227th Meeting American Astronomical Society, [AAS](https://aas.org/), Kissimmee, FL, 2016 <[2016AAS...22743907S](http://adsabs.harvard.edu/abs/2016AAS...22743907S)>  
