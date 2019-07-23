@@ -58,6 +58,8 @@ Cambridge, MA, 02139 \\
 - [College Core Tutor Program](https://core-tutors.uchicago.edu/) for Physics at University of Chicago, 2015
 
 ### Public Outreach
+- Staff for [MIT Astrogazers](https://astrogazers.mit.edu/), Cambridge, MA
+- Volunteer at MIT Museum, Cambridge, MA, 2018-2019
 - WorldWide Telescope Ambassadors at [WorldWide Telescope](http://www.worldwidetelescope.org/), Cambridge, MA, 2016
 - Volunteer Staff at [Asian Science Camp (ASC2015)](http://asc2015.posn.or.th/), Bangkok, Thailand, 2015
 - President at [Ryerson Astronomical Society (RAS)](http://astro.uchicago.edu/RAS/) at University of Chicago, 2013-2014
