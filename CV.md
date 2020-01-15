@@ -8,7 +8,7 @@ tagline:
 MIT Kavli Institute, Massachusetts Institute of Technology\\
 77 Massachusetts Avenue, 37-241,\\
 Cambridge, MA, 02139 \\
-([Download PDF version of the CV](/extra_webpage/Taweewat_CV.pdf))
+([Download PDF version of the CV](/extra_webpage/Taweewat_new_CV.pdf))
 
 ### Research Interests
 - Galaxy Clusters
@@ -22,13 +22,21 @@ Cambridge, MA, 02139 \\
   - Honors Thesis: The Circumgalactic Medium in a Diverse Galaxy Environment
 
 ### Awards
+- Representative to Lindau Nobel Laureate Meetings, Lindau, Germany, 2019
 - Clark Fellow, Graduate Research Fellowship, 2015-present
 - [The FOTI Global Leadership Award](http://www.friendsofutokyo.org/grants-and-awards/roster-of-recipients/#2013) with University of Tokyo, 2014
 - [The Maroon Key Society](https://studentleaderawards.uchicago.edu/maroon.php), 2014-2015
 - Walter and Fay Selove Prize in Physics, 2013
 
+### First-Author Publication
+- **T. Somboonpanyakul**, M. McDonald, H. W. Lin, B. Stalder, A. Stark, "The Clusters Hiding in Plain Sight (CHiPS) Survey: A First Discovery of a Massive Nearby Cluster around PKS1353-341", 2018, [2018arXiv180605676S](https://arxiv.org/abs/1806.05676), Accepted to ApJ Publication
+
+### Co-author Publication
+- M. McDonald, B. R. McNamara, G. M. Voit, ..., **T. Somboonpanyakul**, ..., "Anatomy of a Cooling Flow: The Feedback Response to Pure Cooling in the Core of the Phoenix Cluster", 2019, [2019arXiv190408942](https://arxiv.org/abs/1904.08942), Submitted to ApJ
+
 ### Contributed Talks and Posters
 - T. Somboonpanyakul, M. McDonald, [Galaxy Clusters Hiding in Plain Sight (The CHiPS Survey) - Poster](http://www.physics.utah.edu/snowcluster/archive/2018/talks/Somboonpanyakul.pdf)
+  - 235th Meeting American Astronomical Society, AAS, Honolulu, HI, 2020
   - Tracing Cosmic Evolution with Clusters of Galaxies, Sesto (BZ), Italy, 2019
   - SnowCluster - The Physics of Galaxy Clusters, Snowbird, UT, 2018
   - Chandra Science for the Next Decade, Harvard University, Cambridge, MA, 2016
@@ -49,9 +57,12 @@ Cambridge, MA, 02139 \\
   - Research Assistant at University of Chicago with Prof. Michael Gladders, 2012-2013
 
 ### Teaching Experience
+-	Graduate Teaching Assistant, for Prof. Michael McDonald in 8.902 graduate-level Astrophysics II at MIT, 2019
+-	Graduate Teaching Assistant, for Prof. Kiyoshi Masui in 8.01 Physics I at MIT, 2018
 - [College Core Tutor Program](https://core-tutors.uchicago.edu/) for Physics at University of Chicago, 2015
 
 ### Public Outreach
+- Session Chair, “Galaxy Cluster I”, 235th Meeting American Astronomical Society, 2020
 - Staff for [MIT Astrogazers](https://astrogazers.mit.edu/), Cambridge, MA
 - Volunteer at MIT Museum, Cambridge, MA, 2018-2019
 - WorldWide Telescope Ambassadors at [WorldWide Telescope](http://www.worldwidetelescope.org/), Cambridge, MA, 2016
