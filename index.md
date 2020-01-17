@@ -7,7 +7,7 @@ tagline: “The cosmos is within us. We are made of star-stuff. We are a way for
 
 <figure><center>
   <img width="120%" src="/images/index_photo3.jpg"/>
-  <figcaption>Left - The Sunset view from Magellan telescope, Chile. Right - Me in Tokyo, JP</figcaption>
+  <figcaption>Left - The Sunset view from Magellan telescope, Chile. Right - Me in Philadelphia, PA</figcaption>
 </center></figure>
 
 <!-- ![taweewat](/images/index_photo.jpg){:style="margin-right: auto;margin-left: auto;margin-top: 7px;margin-bottom: 7px;width: 100%"} -->
