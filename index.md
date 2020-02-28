@@ -6,7 +6,7 @@ tagline: “The cosmos is within us. We are made of star-stuff. We are a way for
 ---
 
 <figure><center>
-  <img width="120%" src="/images/homepage.jpg"/>
+  <img width="140%" src="/images/homepage.jpg"/>
   <figcaption>Left - The Magellan Telescopes, Las Campanas, Chile. Right - Me in Philadelphia, PA</figcaption>
 </center></figure>
 
