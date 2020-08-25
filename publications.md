@@ -7,6 +7,8 @@ weight : 8
 ---
 
 ### First-Author Publication
+- **T. Somboonpanyakul, T.**, M. McDonald, M. Gaspari; B. Stalder; A. Stark, M. Bayliss, in prep., “The Clusters Hiding in Plain Sight (CHiPS) Survey: CHIPS1911+4455 (Phoenix meets El Gordo)”
+- **T. Somboonpanyakul**, M. McDonald, M. Gaspari; B. Stalder; A. Stark, submitted, ApJ, “The Clusters Hiding in Plain Sight (CHiPS) Survey: Complete Sample of Extreme BCG Clusters”
 - **T. Somboonpanyakul**, M. McDonald, H. W. Lin, B. Stalder, A. Stark, *"The Clusters Hiding in Plain Sight (CHiPS) Survey: A First Discovery of a Massive Nearby Cluster around PKS1353-341"*, 2018, [2018arXiv180605676S](https://arxiv.org/abs/1806.05676), Astrophysical Journal, 863, 122
 
 ### Co-author Publication
