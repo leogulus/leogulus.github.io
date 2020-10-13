@@ -14,12 +14,18 @@ tagline: "How does a project get to be a year late? One day at a time."
 - [Diagram showing no correlation between Physics GRE scores and GPA or General GRE quantitative section](/extra_webpage/fig.html)
 
 ### Specifically about Astrophysics
-- **NEW** [Diagram showing average seeing at the Magellan telescope between 2018 and 2019](/extra_webpage/seeing_boken.html).
+- [Diagram showing average seeing at the Magellan telescope between 2018 and 2019](/extra_webpage/seeing_boken.html).
 - [Diagram showing the Chandra proposal time accepted from 1999-2015](/extra_webpage/chandra_line_plot.html).
 - [Diagram showing the average seeing at Magellan telescope from March 1st, 2017 to June 22nd, 2017](/extra_webpage/seeing.pdf). Note: one second seeing is relative good for ground-based telescope.
 - [Diagram showing the average wind speed at Magellan telescope from March 1st, 2017 to June 22nd, 2017](/extra_webpage/seeing.pdf). Note: 35 mph is the cut-off for the telescope that we have to close the dome and stop observing because high wind can potentially damage the mirror.
 
 ## My Volunteer/Outreach Works
+- **[MKI Astrogazers](https://astrogazers.mit.edu/)**\\
+  We are an outreach group of graduate students mostly in the MIT astrophysics division. We take telescopes around the Cambridge/Boston area to show the cosmos to the public. We also have a solar telescope for daytime viewing
+
+- **[The Ryerson Astronomical Society](https://astro.uchicago.edu/RAS/)**\\
+  I served as a President for the Ryerson Astronomical Society in college. The main goal for the club is to organie public viewing to observe celestial objects on the roof of our building. 
+
 - **[Community Camp](http://communitycamp.weebly.com/index.html)**\\
   My another interests is about volunteering and education. This website is an example for student camps that I previously organized and documents related to these activities so that others would be able to do a similar project.
 
