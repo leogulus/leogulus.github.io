@@ -21,13 +21,13 @@ tagline: "How does a project get to be a year late? One day at a time."
 
 ## My Volunteer/Outreach Works
 - **[MKI Astrogazers](https://astrogazers.mit.edu/)**\\
-  We are an outreach group of graduate students mostly in the MIT astrophysics division. We take telescopes around the Cambridge/Boston area to show the cosmos to the public. We also have a solar telescope for daytime viewing
+  We are an outreach group of graduate students mostly in the MIT astrophysics division. We take telescopes around the Cambridge/Boston area to show the cosmos to the public. We also have a solar telescope for daytime observing. 
 
 - **[The Ryerson Astronomical Society](https://astro.uchicago.edu/RAS/)**\\
-  I served as a President for the Ryerson Astronomical Society in college. The main goal for the club is to organie public viewing to observe celestial objects on the roof of our building. 
+  I served as a President for the Ryerson Astronomical Society in college from 2012-2014. The main goal for the club is to organize public viewing to observe celestial objects on the roof of our building. 
 
 - **[Community Camp](http://communitycamp.weebly.com/index.html)**\\
-  My another interests is about volunteering and education. This website is an example for student camps that I previously organized and documents related to these activities so that others would be able to do a similar project.
+  My other interest is about volunteering and education. This website is an example for student camps that I have previously organized and documents related to these activities so that others would be able to do a similar project.
 
 ## My Blog
 - **[My Blog](http://leogulus-champ.blogspot.com/)** \\
