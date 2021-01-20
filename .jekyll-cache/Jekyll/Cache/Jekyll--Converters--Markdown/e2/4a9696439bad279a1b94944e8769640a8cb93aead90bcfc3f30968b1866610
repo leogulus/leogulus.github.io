@@ -1,0 +1,48 @@
+I"<h2 id="1-the-clusters-hiding-in-plain-sight-chips-survey">1.) The Clusters Hiding in Plain Sight (<em>CHiPS</em>) survey</h2>
+<figure><center>
+  <img width="800" src="/images/total_object_new_v3.png" />
+  <figcaption>The three panels show color-color diagrams for objects that are detected in all four all-sky surveys (3,450 objects). The axes are the logarithm of the ratio of the X-Ray, mid-IR (MIR) or radio flux to the near-IR (NIR) flux. Points colored in pink satisfy our three color cuts. The Phoenix, Perseus (NGC 1275), Abell 1835, and IRAS09104+4109 clusters, which host extreme BCGs, are shown with orange, green, blue and purple squares, respectively while CHIPS1356-3421 is shown with a red square.</figcaption>
+</center></figure>
+
+<p>I am interested in identifying nearby galaxy clusters (z~0.2-0.7) with QSO dominant at the center, which have been mislabeled simply as a QSO in previous X-ray all-sky survey, such as ROSAT. One example of this misidentified galaxy cluster is the <a href="http://adsabs.harvard.edu/abs/2012Natur.488..349M"><em>Phoenix Cluster</em></a> (McDonald et al 2012), discovered recently using the Sunyaev–Zel’dovich effect with <a href="https://pole.uchicago.edu/">the South Pole Telescope</a>. This leads us to question of how many of these nearby galaxy cluster we have been mislabeled in existing all-sky surveys.</p>
+
+<h3 id="11-a-first-discovery-of-a-massive-nearby-cluster-around-pks1353-341">1.1) A First Discovery of a Massive Nearby Cluster around PKS1353-341</h3>
+<p><a href="/images/17214_img_full.png"><img src="/images/17214_img_full.png" style="float: left; width: 60%; margin-right: 1%; margin-bottom: 0.5em;" /></a>
+<em>Left: Chandra broad-band (0.5-7 keV) image for PKS1353-341 on a log-scale colorbar, showing the bright central point source and the surrounding diffuse cluster emission. Right: Magellan PISCO (g,r,i) image of the inner part of the galaxy cluster, showing the central giant elliptical galaxy.</em></p>
+<p style="clear: both;"></p>
+
+<p>Our first newly discovered low-redshift (z = 0.223) galaxy cluster with a central X-ray bright point source, PKS1353-341 is presented here. The cluster has mass that are 700 trillions more than the mass of the sun or ~1200 times more massive than our Milky Way. The cluster hosts the extreme active galactic nuclei (AGN) in the center of the cluster which ejects enourmous energy to heat up its surrounding gas. <br /></p>
+<ul>
+  <li><a href="/extra_webpage/papers/1806.05676.pdf">Download the paper</a></li>
+</ul>
+
+<h3 id="12-chips19114455-a-rapidly-cooling-core-in-a-merging-cluster">1.2) CHIPS1911+4455, a Rapidly-Cooling Core in a Merging Cluster</h3>
+<!-- <figure><center>
+  <img width="800" src="/images/total_object_new_v3.png"/>
+  <figcaption>The three panels show color-color diagrams for objects that are detected in all four all-sky surveys (3,450 objects). The axes are the logarithm of the ratio of the X-Ray, mid-IR (MIR) or radio flux to the near-IR (NIR) flux. Points colored in pink satisfy our three color cuts. The Phoenix, Perseus (NGC 1275), Abell 1835, and IRAS09104+4109 clusters, which host extreme BCGs, are shown with orange, green, blue and purple squares, respectively while CHIPS1356-3421 is shown with a red square.</figcaption>
+</center></figure> -->
+
+<!-- [<img src="/images/hst_chandra_contour3.png" style="float: left; width: 90%; margin-right: 1%; margin-bottom: 0.5em;">](/images/hst_chandra_contour3.png)  -->
+<figure><center>
+  <img width="800" src="/images/hst_chandra_contour3.png" />
+  <figcaption>
+  Left: Chandra 0.5-7.0 keV image of CHIPS1911+4455, highlighting the asymmetric morphology on both small and large scales. The image is oriented such that North is up and East is to the left. Middle: Hubble images with X-ray contours overlaid. The contour lines were chosen arbitrarily to guide the eye. The cyan box shows the orientation of the long slit. Right: The Hubble images of the central galaxy, showing the blue star-forming filaments, extending on scales of $\sim30$ kpc. These images show that the cool, star-forming gas is centered on the X-ray peak, with a faint set of filaments extending north to the secondary peak and a brighter filament extending to the south.</figcaption>
+</center></figure>
+
+<p style="clear: both;"></p>
+
+<ul>
+  <li><a href="/extra_webpage/papers/2101.01731.pdf">Download the paper</a></li>
+  <li><a href="https://www.youtube.com/watch?v=mVcCahwa-lg">View 20-min video</a> about <em>the CHIPS project</em> and <em>CHIPS1911+4455</em> in particular.</li>
+</ul>
+
+<hr />
+
+<h2 id="2-previous-talks-and-presentation">2.) Previous Talks and Presentation</h2>
+<h3 id="21-journal-club-talks-at-mit">2.1) Journal Club Talks at MIT</h3>
+<ul>
+  <li><a href="/talks/16_3_4/index.html">A very deep Chandra view of metals, sloshing and feedback in the Centaurus cluster of galaxies</a> (Sanders et al. 2016) – 3/4/2016</li>
+  <li><a href="/talks/17_4_21/index.html">Statistical Detection of the HeII Transverse Proximity Effect: Evidence for Sustained Quasar Activity for &gt;25 Million Years</a>
+(Schmidt et al 2017) – 4/21/2017</li>
+</ul>
+:ET
