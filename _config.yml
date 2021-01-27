@@ -14,5 +14,7 @@ url: "http://leogulus.github.io/" # the base hostname & protocol for your site
 twitter_username: leogulus
 github_username:  leogulus
 
+google_verify: xc0mbTfFc_M_CZTO7ZbCyInWZkGrgLhD83MMx9lOK38
+
 # Build settings
 markdown: kramdown
