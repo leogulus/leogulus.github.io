@@ -20,6 +20,10 @@ tagline: "How does a project get to be a year late? One day at a time."
 - [Diagram showing the average seeing at Magellan telescope from March 1st, 2017 to June 22nd, 2017](/extra_webpage/seeing.pdf). Note: one second seeing is relative good for ground-based telescope.
 - [Diagram showing the average wind speed at Magellan telescope from March 1st, 2017 to June 22nd, 2017](/extra_webpage/seeing.pdf). Note: 35 mph is the cut-off for the telescope that we have to close the dome and stop observing because high wind can potentially damage the mirror.
 
+
+## Career Advice
+- **[Unsolicited Advice for Job Applicants](https://www.dropbox.com/s/7tz2r9tonturigk/Application_Advice.pdf)** from [Daniel Green](https://drgreen.physics.ucsd.edu/) which includes guidance on CV, Research Statement, and Letters of Recommendation
+
 ## My Volunteer/Outreach Works
 - **[MKI Astrogazers](https://astrogazers.mit.edu/)**\\
   We are an outreach group of graduate students mostly in the MIT astrophysics division. We take telescopes around the Cambridge/Boston area to show the cosmos to the public. We also have a solar telescope for daytime observing. 
