@@ -84,7 +84,7 @@ d3.csv("chandra_proposal_data.csv", function(error, data) {
   });
 
   // scale the range of the data
-  x.domain([1998,2016]);
+  x.domain([1998,2021]);
 
     // d3.extent(data, function(d) { return d.Year; }));
   y.domain([1, d3.max(data, function(d) { return d.Time; })]);
