@@ -7,11 +7,12 @@ weight : 8
 ---
 
 ### First-Author Publication Submitted
-- **T. Somboonpanyakul, T.**, M. McDonald, M. Gaspari; B. Stalder; A. Stark, M. Bayliss, in prep., [“The Clusters Hiding in Plain Sight (CHiPS) Survey: CHIPS1911+4455 (Phoenix meets El Gordo)”](/extra_webpage/papers/chips03_v5.pdf)
-- **T. Somboonpanyakul**, M. McDonald, M. Gaspari; B. Stalder; A. Stark, submitted, ApJ, [“The Clusters Hiding in Plain Sight (CHiPS) Survey: Complete Sample of Extreme BCG Clusters”](/extra_webpage/papers/chips_main_v7.pdf)
+
 
 ### First-Author Publication
-- **T. Somboonpanyakul**, M. McDonald, H. W. Lin, B. Stalder, A. Stark, *"The Clusters Hiding in Plain Sight (CHiPS) Survey: A First Discovery of a Massive Nearby Cluster around PKS1353-341"*, 2018, [2018arXiv180605676S](https://arxiv.org/abs/1806.05676), Astrophysical Journal, 863, 122
+- **T. Somboonpanyakul, T.**, M. McDonald, M. Gaspari; B. Stalder; A. Stark, M. Bayliss, in prep., [“The Clusters Hiding in Plain Sight (CHiPS) Survey: CHIPS1911+4455 (Phoenix meets El Gordo)”](https://ui.adsabs.harvard.edu/abs/2021ApJ...907L..12S/abstract), 2021, The Astrophysical Journal Letters, 907, L12
+- **T. Somboonpanyakul**, M. McDonald, M. Gaspari; B. Stalder; A. Stark, [“The Clusters Hiding in Plain Sight (CHiPS) Survey: Complete Sample of Extreme BCG Clusters”](https://ui.adsabs.harvard.edu/abs/2021arXiv210101730S/abstract), The Astrophysical Journal
+- **T. Somboonpanyakul**, M. McDonald, H. W. Lin, B. Stalder, A. Stark, [*"The Clusters Hiding in Plain Sight (CHiPS) Survey: A First Discovery of a Massive Nearby Cluster around PKS1353-341"*](https://ui.adsabs.harvard.edu/abs/2018ApJ...863..122S/abstract), 2018, The Astrophysical Journal, 863, 122
 
 ### Co-author Publication
-- M. McDonald, B. R. McNamara, G. M. Voit, ..., **T. Somboonpanyakul**, ..., *"Anatomy of a Cooling Flow: The Feedback Response to Pure Cooling in the Core of the Phoenix Cluster"*, 2019, [2019arXiv190408942](https://arxiv.org/abs/1904.08942), Submitted to ApJ
+- M. McDonald, B. R. McNamara, G. M. Voit, ..., **T. Somboonpanyakul**, ..., [*"Anatomy of a Cooling Flow: The Feedback Response to Pure Cooling in the Core of the Phoenix Cluster"*](https://ui.adsabs.harvard.edu/abs/2019ApJ...885...63M/abstract), 2019, The Astrophysical Journal, 885, 63

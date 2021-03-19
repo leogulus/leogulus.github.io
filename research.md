@@ -21,16 +21,20 @@ I am interested in identifying nearby galaxy clusters (z~0.2-0.7) with QSO domin
 <p style="clear: both;"></p>
 
 Our first newly discovered low-redshift (z = 0.223) galaxy cluster with a central X-ray bright point source, PKS1353-341 is presented here. The cluster has mass that are 700 trillions more than the mass of the sun or ~1200 times more massive than our Milky Way. The cluster hosts the extreme active galactic nuclei (AGN) in the center of the cluster which ejects enourmous energy to heat up its surrounding gas. <br/>
-- [Download the paper](/extra_webpage/papers/1806.05676.pdf)
+- [Download the paper](https://ui.adsabs.harvard.edu/abs/2018ApJ...863..122S/abstract)
 
+### 1.2) Complete sample of extreme BCG clusters
+<figure><center>
+  <img width="800" src="/images/optical_v5.png"/>
+  <figcaption>
+  This figure shows gri optical images of all three candidates, including CHIPS1356-3421, CHIPS1911+4455, and CHIPS2155-3727. These new cluster candidates are visually similar in optical, compared to the Phoenix cluster with extremely bright objects in the center. Based on Chandra images, CHIPS2155-3727 appears to not be a massive cluster even though the optical image suggests otherwise.</figcaption>
+</center></figure>
 
-### 1.2) CHIPS1911+4455, a Rapidly-Cooling Core in a Merging Cluster
-<!-- <figure><center>
-  <img width="800" src="/images/total_object_new_v3.png"/>
-  <figcaption>The three panels show color-color diagrams for objects that are detected in all four all-sky surveys (3,450 objects). The axes are the logarithm of the ratio of the X-Ray, mid-IR (MIR) or radio flux to the near-IR (NIR) flux. Points colored in pink satisfy our three color cuts. The Phoenix, Perseus (NGC 1275), Abell 1835, and IRAS09104+4109 clusters, which host extreme BCGs, are shown with orange, green, blue and purple squares, respectively while CHIPS1356-3421 is shown with a red square.</figcaption>
-</center></figure> -->
+<p style="clear: both;"></p>
 
-<!-- [<img src="/images/hst_chandra_contour3.png" style="float: left; width: 90%; margin-right: 1%; margin-bottom: 0.5em;">](/images/hst_chandra_contour3.png)  -->
+- [Download the paper](https://ui.adsabs.harvard.edu/abs/2021arXiv210101730S/abstract)
+
+### 1.3) CHIPS1911+4455, a Rapidly-Cooling Core in a Merging Cluster
 <figure><center>
   <img width="800" src="/images/hst_chandra_contour3.png"/>
   <figcaption>
@@ -40,7 +44,7 @@ Our first newly discovered low-redshift (z = 0.223) galaxy cluster with a centra
 
 <p style="clear: both;"></p>
 
-- [Download the paper](/extra_webpage/papers/2101.01731.pdf)
+- [Download the paper](https://ui.adsabs.harvard.edu/abs/2021ApJ...907L..12S/abstract)
 - [View 20-min video](https://www.youtube.com/watch?v=mVcCahwa-lg) about *the CHIPS project* and *CHIPS1911+4455* in particular.
 
 ---
