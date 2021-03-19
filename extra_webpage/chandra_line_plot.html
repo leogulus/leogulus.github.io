@@ -4,7 +4,7 @@
 
 .line {
   fill: none;
-  stroke: steelblue;
+  stroke: rgb(15, 102, 173);
   stroke-width: 2px;
 }
 
@@ -18,10 +18,10 @@ div.tooltip {
   position: absolute;
   text-align: center;
   width: 90px;
-  height: 150px;
+  height: 200px;
   padding: 2px;
   font: 12px sans-serif;
-  background: lightsteelblue;
+  background: rgb(222, 219, 176);
   border: 0px;
   border-radius: 8px;
   pointer-events: none;
@@ -36,8 +36,7 @@ div.tooltip {
 </p>
 
 <!-- load the d3.js library -->
-<!-- <script src="https://d3js.org/d3.v4.min.js"></script> -->
-<script src="https://d3js.org/d3.v6.min.js"></script>
+<script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
 // set the dimensions and margins of the graph
@@ -108,7 +107,7 @@ d3.csv("chandra_proposal_data.csv", function(error, data) {
        div.transition()
          .duration(200)
          .style("opacity", .9);
-       div.html(d.PI_Name + "<br/>" + "<br/>" + d.Title + "<br/><br/>" + d.Time + "ks" + "<br/><br/>" + d.Year)
+       div.html(d.PI_Name + "<br/>" + "<br/>" + d.Title + "<br/><br/>" + d.Time + "ks" + " (" + d.Year +")")
          .style("left", (d3.event.pageX) + "px")
          .style("top", (d3.event.pageY - 28) + "px");
        })

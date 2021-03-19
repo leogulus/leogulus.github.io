@@ -1,4 +1,4 @@
-I"%<h2 id="my-data-visualization-projects">My Data Visualization Projects</h2>
+I"s<h2 id="my-data-visualization-projects">My Data Visualization Projects</h2>
 <ul>
   <li><a href="/extra_webpage/bangkok_pop/index.html">Diagrams showing changes in Bangkok population from 2009 to 2016</a></li>
   <li><a href="http://nbviewer.jupyter.org/github/leogulus/Datavisualization/blob/master/mit_alumni/mit_alumni.ipynb?flush_cache=true">Jupyter notebook showing about MIT Astrophysics Alunmi in terms of their careers (current upto 2013)</a></li>
@@ -8,10 +8,17 @@
 
 <h3 id="specifically-about-astrophysics">Specifically about Astrophysics</h3>
 <ul>
+  <li><a href="/extra_webpage/sundial_n.pdf">Hand-made Sundial for Students</a></li>
   <li><a href="/extra_webpage/seeing_boken.html">Diagram showing average seeing at the Magellan telescope between 2018 and 2019</a>.</li>
   <li><a href="/extra_webpage/chandra_line_plot.html">Diagram showing the Chandra proposal time accepted from 1999-2015</a>.</li>
   <li><a href="/extra_webpage/seeing.pdf">Diagram showing the average seeing at Magellan telescope from March 1st, 2017 to June 22nd, 2017</a>. Note: one second seeing is relative good for ground-based telescope.</li>
   <li><a href="/extra_webpage/seeing.pdf">Diagram showing the average wind speed at Magellan telescope from March 1st, 2017 to June 22nd, 2017</a>. Note: 35 mph is the cut-off for the telescope that we have to close the dome and stop observing because high wind can potentially damage the mirror.</li>
+</ul>
+
+<h2 id="career-advice">Career Advice</h2>
+<ul>
+  <li><strong><a href="https://jobregister.aas.org/postdoc-application-guidelines">Postdoctoral Application Guidelines</a></strong> from AAS Job Register</li>
+  <li><strong><a href="https://www.dropbox.com/s/7tz2r9tonturigk/Application_Advice.pdf">Unsolicited Advice for Job Applicants</a></strong> from <a href="https://drgreen.physics.ucsd.edu/">Daniel Green</a> which includes guidance on CV, Research Statement, and Letters of Recommendation</li>
 </ul>
 
 <h2 id="my-volunteeroutreach-works">My Volunteer/Outreach Works</h2>
