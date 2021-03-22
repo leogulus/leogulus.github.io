@@ -14,9 +14,9 @@ tagline: "How does a project get to be a year late? One day at a time."
 - [Diagram showing no correlation between Physics GRE scores and GPA or General GRE quantitative section](/extra_webpage/fig.html)
 
 ### Specifically about Astrophysics
+- [Diagram showing the Chandra proposal time accepted from 1999-2020](/extra_webpage/chandra_line_plot.html).
 - [Hand-made Sundial for Students](/extra_webpage/sundial_n.pdf)
 - [Diagram showing average seeing at the Magellan telescope between 2018 and 2019](/extra_webpage/seeing_boken.html).
-- [Diagram showing the Chandra proposal time accepted from 1999-2015](/extra_webpage/chandra_line_plot.html).
 - [Diagram showing the average seeing at Magellan telescope from March 1st, 2017 to June 22nd, 2017](/extra_webpage/seeing.pdf). Note: one second seeing is relative good for ground-based telescope.
 - [Diagram showing the average wind speed at Magellan telescope from March 1st, 2017 to June 22nd, 2017](/extra_webpage/seeing.pdf). Note: 35 mph is the cut-off for the telescope that we have to close the dome and stop observing because high wind can potentially damage the mirror.
 

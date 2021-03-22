@@ -1,0 +1,45 @@
+I"s<h2 id="my-data-visualization-projects">My Data Visualization Projects</h2>
+<ul>
+  <li><a href="/extra_webpage/bangkok_pop/index.html">Diagrams showing changes in Bangkok population from 2009 to 2016</a></li>
+  <li><a href="http://nbviewer.jupyter.org/github/leogulus/Datavisualization/blob/master/mit_alumni/mit_alumni.ipynb?flush_cache=true">Jupyter notebook showing about MIT Astrophysics Alunmi in terms of their careers (current upto 2013)</a></li>
+  <li><a href="/extra_webpage/funding1.html">Diagram showing money providede by various funding agencies in the US in 2013 to the top 100 universities</a></li>
+  <li><a href="/extra_webpage/fig.html">Diagram showing no correlation between Physics GRE scores and GPA or General GRE quantitative section</a></li>
+</ul>
+
+<h3 id="specifically-about-astrophysics">Specifically about Astrophysics</h3>
+<ul>
+  <li><a href="/extra_webpage/sundial_n.pdf">Hand-made Sundial for Students</a></li>
+  <li><a href="/extra_webpage/seeing_boken.html">Diagram showing average seeing at the Magellan telescope between 2018 and 2019</a>.</li>
+  <li><a href="/extra_webpage/chandra_line_plot.html">Diagram showing the Chandra proposal time accepted from 1999-2020</a>.</li>
+  <li><a href="/extra_webpage/seeing.pdf">Diagram showing the average seeing at Magellan telescope from March 1st, 2017 to June 22nd, 2017</a>. Note: one second seeing is relative good for ground-based telescope.</li>
+  <li><a href="/extra_webpage/seeing.pdf">Diagram showing the average wind speed at Magellan telescope from March 1st, 2017 to June 22nd, 2017</a>. Note: 35 mph is the cut-off for the telescope that we have to close the dome and stop observing because high wind can potentially damage the mirror.</li>
+</ul>
+
+<h2 id="career-advice">Career Advice</h2>
+<ul>
+  <li><strong><a href="https://jobregister.aas.org/postdoc-application-guidelines">Postdoctoral Application Guidelines</a></strong> from AAS Job Register</li>
+  <li><strong><a href="https://www.dropbox.com/s/7tz2r9tonturigk/Application_Advice.pdf">Unsolicited Advice for Job Applicants</a></strong> from <a href="https://drgreen.physics.ucsd.edu/">Daniel Green</a> which includes guidance on CV, Research Statement, and Letters of Recommendation</li>
+</ul>
+
+<h2 id="my-volunteeroutreach-works">My Volunteer/Outreach Works</h2>
+<ul>
+  <li>
+    <p><strong><a href="https://astrogazers.mit.edu/">MKI Astrogazers</a></strong><br />
+We are an outreach group of graduate students mostly in the MIT astrophysics division. We take telescopes around the Cambridge/Boston area to show the cosmos to the public. We also have a solar telescope for daytime observing.</p>
+  </li>
+  <li>
+    <p><strong><a href="https://astro.uchicago.edu/RAS/">The Ryerson Astronomical Society</a></strong><br />
+I served as a President for the Ryerson Astronomical Society in college from 2012-2014. The main goal for the club is to organize public viewing to observe celestial objects on the roof of our building.</p>
+  </li>
+  <li>
+    <p><strong><a href="http://communitycamp.weebly.com/index.html">Community Camp</a></strong><br />
+My other interest is about volunteering and education. This website is an example for student camps that I have previously organized and documents related to these activities so that others would be able to do a similar project.</p>
+  </li>
+</ul>
+
+<h2 id="my-blog">My Blog</h2>
+<ul>
+  <li><strong><a href="http://leogulus-champ.blogspot.com/">My Blog</a></strong> <br />
+My personal blog is where I posted mostly about my travel experience, my academic experience with talks and previous conferences, and other non-academic interests like data visualization and geographic information system (GIS).</li>
+</ul>
+:ET
