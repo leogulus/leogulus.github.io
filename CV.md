@@ -5,9 +5,9 @@ permalink: /cv/
 weight : 6
 tagline:
 ---
-MIT Kavli Institute, Massachusetts Institute of Technology\\
-77 Massachusetts Avenue, 37-241,\\
-Cambridge, MA, 02139 \\
+Kavli Institute for Particle Astrophysics \& Cosmology (KIPAC)\\
+452 Lomita Mall, Stanford, CA 94305\\
+Email: taweewat at stanford.edu \\
 ([Download PDF version of the CV](/extra_webpage/Taweewat_new_CV.pdf))
 
 ### Research Interests
@@ -15,8 +15,11 @@ Cambridge, MA, 02139 \\
 - Large-scaled Surveys
 - High Energy Astrophysics, X-Ray, Optical Imaging
 
+### Employment
+- Kavli Fellow, Stanford University, 2021-present
+
 ### Education
-- Ph.D. Candidate in Physics, Massachusetts Institute of Technology, present
+- Ph.D. Candidate in Physics, Massachusetts Institute of Technology, 2021
 - B.A.. in Honors Physics with Specialization of Astrophysics, University of Chicago, June, 2015
   - Honors Thesis Advisor: Hsiao-Wen Chen
   - Honors Thesis: The Circumgalactic Medium in a Diverse Galaxy Environment

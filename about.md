@@ -14,9 +14,9 @@ weight : 6
 ### About me
 ![Trip to Machu Picchu](/images/11_Machu_Picchu.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;width: 40%"}
 
-Hi everyone! My name is Taweewat Somboonpanyakul. Currently, I am a gradaute stuent in the Physics PhD program at MIT (started in Fall 2015) with a focus on Astrophysics. 
+Hi everyone! My name is Taweewat Somboonpanyakul. Currently, I am a Kavli Postdoctoral Fellow at the Kavli Institute for Particle Astrophysics and Cosmology at Stanford University. 
 
-My current project with [Prof. Michael McDonald](http://space.mit.edu/~mcdonald/) is to look for new galaxy clusters which host extreme point source, such as active galactic nuclei (AGN), in the center of the cluster and study their properties to see how it has an effect on the cluster as a whole. I am working with both Optical (through Magellan/PANSTARRS/SDSS) and X-ray (with Chandra). As an observer, I have been to the Magellen telescope, located at the Las Campanas Observatory in Chile multiple times. These trips are definitely one of the highlights for me in choosing to study astronomy and astrophysics for my PhD.
+My thesis project with [Prof. Michael McDonald](http://space.mit.edu/~mcdonald/) at MIT is to look for new galaxy clusters which host extreme point source, such as active galactic nuclei (AGN), in the center of the cluster and study their properties to see how it has an effect on the cluster as a whole. I am working with both Optical (through Magellan/PANSTARRS/SDSS) and X-ray (with Chandra). As an observer, I have been to the Magellen telescope, located at the Las Campanas Observatory in Chile multiple times. These trips are definitely one of the highlights for me in choosing to study astronomy and astrophysics for my PhD.
 
 I was born and raised in Bangkok, Thailand. After graduating from both [Mahidol Wittayanusorn School (MWITS)](https://www.mwit.ac.th/mwit-eng/) in Thailand and [Asheville School](http://www.ashevilleschool.org/) in Ashville, NC for high school, I moved to the University of Chicago where I majored in physics as an undergrduate student.
 
