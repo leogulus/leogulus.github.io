@@ -14,7 +14,7 @@ weight : 6
 ### About me
 ![Trip to Machu Picchu](/images/11_Machu_Picchu.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;width: 40%"}
 
-Hi everyone! My name is Taweewat Somboonpanyakul. Currently, I am a [the Kavli Institute for Particle Astrophysics and Cosmology](https://kipac.stanford.edu/) at Stanford University. I worked closely with [Prof. Steve Allen](https://web.stanford.edu/group/xoc/index.html) on studying the properties of galaxy clusters. 
+Hi everyone! My name is Taweewat Somboonpanyakul. Currently, I am [the Kavli Institute for Particle Astrophysics and Cosmology](https://kipac.stanford.edu/) at Stanford University. I worked closely with [Prof. Steve Allen](https://web.stanford.edu/group/xoc/index.html) on studying the properties of galaxy clusters. 
 
 My thesis project with [Prof. Michael McDonald](http://space.mit.edu/~mcdonald/) at MIT is to look for new galaxy clusters which host extreme point source, such as active galactic nuclei (AGN), in the center of the cluster and study their properties to see how it has an effect on the cluster as a whole. I am working with both Optical (through Magellan/PANSTARRS/SDSS) and X-ray (with Chandra). As an observer, I have been to the Magellen telescope, located at the Las Campanas Observatory in Chile multiple times. These trips are definitely one of the highlights for me in choosing to study astronomy and astrophysics for my PhD.
 
