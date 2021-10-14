@@ -10,7 +10,7 @@ tagline: "How does a project get to be a year late? One day at a time."
 ## My Data Visualization Projects
 - Number of Students in each department for the two popular faculties in Thai Universities in 2020
   - [The Faculty of Science](/extra_webpage/science_faculty_plot.html)
-  - [The Faculty of Engineering](/extra_webpage/science_faculty_plot.html)
+  - [The Faculty of Engineering](/extra_webpage/engineer_faculty_plot.html)
 - [Number of Students in Thai Universities from 2016-2020](/extra_webpage/Thai_university_population.html)
 - [Diagrams showing changes in Bangkok population from 2009 to 2016](/extra_webpage/bangkok_pop/index.html)
 - [Jupyter notebook showing about MIT Astrophysics Alunmi in terms of their careers (current upto 2013)](http://nbviewer.jupyter.org/github/leogulus/Datavisualization/blob/master/mit_alumni/mit_alumni.ipynb?flush_cache=true)
