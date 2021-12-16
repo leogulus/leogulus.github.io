@@ -8,7 +8,9 @@ tagline: "How does a project get to be a year late? One day at a time."
 ---
 
 ## My Data Visualization Projects
-- [Maps of California Population based on Race/Age/Polical Party/MedianIncome in 2019](/extra_webpage/california_map.html)
+- **California**
+  - [Maps of San Fransico Population based on Race/Age in 2020](/extra_webpage/SF_pop_map.html)
+  - [Maps of California Population based on Race/Age/Polical Party/MedianIncome in 2019](/extra_webpage/california_map.html)
 - Number of Students in each department for the two popular faculties in Thai Universities in 2020
   - [The Faculty of Science](/extra_webpage/science_faculty_plot.html)
   - [The Faculty of Engineering](/extra_webpage/engineer_faculty_plot.html)
