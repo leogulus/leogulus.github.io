@@ -19,23 +19,21 @@ Email: taweewat at stanford.edu \\
 - Kavli Fellow, Stanford University, 2021-present
 
 ### Education
-- Ph.D. Candidate in Physics, Massachusetts Institute of Technology, 2021
-- B.A.. in Honors Physics with Specialization of Astrophysics, University of Chicago, June, 2015
+- Ph.D. in Physics, Massachusetts Institute of Technology (MIT), 2021
+- B.A. in Physics (Honors) with Specialization of Astrophysics, University of Chicago, June, 2015
   - Honors Thesis Advisor: Hsiao-Wen Chen
   - Honors Thesis: The Circumgalactic Medium in a Diverse Galaxy Environment
 
 ### Awards
+- Kavli Fellow, Stanford University, US, 2021
 - Representative to Lindau Nobel Laureate Meetings, Lindau, Germany, 2019
 - Clark Fellow, Graduate Research Fellowship, 2015-present
 - [The FOTI Global Leadership Award](http://www.friendsofutokyo.org/grants-and-awards/roster-of-recipients/#2013) with University of Tokyo, 2014
 - [The Maroon Key Society](https://studentleaderawards.uchicago.edu/maroon.php), 2014-2015
 - Walter and Fay Selove Prize in Physics, 2013
 
-### First-Author Publication
-- **T. Somboonpanyakul**, M. McDonald, H. W. Lin, B. Stalder, A. Stark, "The Clusters Hiding in Plain Sight (CHiPS) Survey: A First Discovery of a Massive Nearby Cluster around PKS1353-341", 2018, [2018arXiv180605676S](https://arxiv.org/abs/1806.05676), Accepted to ApJ Publication
-
-### Co-author Publication
-- M. McDonald, B. R. McNamara, G. M. Voit, ..., **T. Somboonpanyakul**, ..., "Anatomy of a Cooling Flow: The Feedback Response to Pure Cooling in the Core of the Phoenix Cluster", 2019, [2019arXiv190408942](https://arxiv.org/abs/1904.08942), Submitted to ApJ
+### Publication
+- See the [Publication](publications.md) Page
 
 ### Contributed Talks and Posters
 - T. Somboonpanyakul, M. McDonald, [Galaxy Clusters Hiding in Plain Sight (The CHiPS Survey) - Poster](http://www.physics.utah.edu/snowcluster/archive/2018/talks/Somboonpanyakul.pdf)
