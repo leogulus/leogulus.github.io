@@ -25,10 +25,10 @@ As an undergraduate student, I wrote my senior thesis with [Prof. Hsiao-wen Chen
 Apart from doing work in astrophysics, I also enjoy traveling and being outdoor. One benefit of living in Massachusetts is that there are many hiking trails and beaches nearby. White Mountain National Forest in New Hamshire has some of the best views in this area, especially during [the leaf peeping season](https://www.instagram.com/p/CGOHz0CHZ2m/). My other interest is in board games. I love playing, learning, and teaching board games. I really like the time we share together while playing board game without any distraction from all the connected devices which are all around us.
 <br>
 
-[<img src="/images/winter_time.jpg" style="float: left; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">](/images/winter_time.jpg)
-[<img src="/images/boston_sunset.jpg" style="float: left; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">](/images/boston_sunset.jpg)
+[<img src="/images/public_talk.jpeg" style="float: left; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">](/images/public_talk.jpeg)
+[<img src="/images/stanford.jpg" style="float: left; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">](/images/stanford.jpg)
 [<img src="/images/13_Falls.jpg" style="float: left; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">](/images/13_Falls.jpg)
-[<img src="/images/14_venice.jpg" style="float: left; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">](/images/14_venice.jpg)
+[<img src="/images/yosemite.jpg" style="float: left; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">](/images/yosemite.jpg)
 <p style="clear: both;"></p>
 
 
