@@ -5,6 +5,7 @@ permalink: /publication/
 category: "publication"
 weight : 8
 ---
+([Latest publication can be found in the CV](/extra_webpage/Taweewat_new_CV.pdf))
 
 ## First-Author Publication
 - **T. Somboonpanyakul**, M. McDonald, A. Noble, et al., [The Evolution of AGN Activity in Brightest Cluster Galaxies](https://ui.adsabs.harvard.edu/abs/2022arXiv220108398S/abstract), 2022, The Astrophysical Journal, ..
