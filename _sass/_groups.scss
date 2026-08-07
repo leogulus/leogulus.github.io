@@ -1,0 +1,75 @@
+/* Research-group roster */
+
+.group-section {
+  margin-top: 2.5rem;
+
+  &:first-of-type {
+    margin-top: 1.25rem;
+  }
+}
+
+.group-section-title {
+  border-bottom: 1px solid var(--global-divider-color);
+  color: var(--global-theme-color);
+  font-size: 1.4rem;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.45rem;
+}
+
+.student-card {
+  align-items: center;
+  background: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.65rem;
+  display: flex;
+  gap: 1.15rem;
+  height: 100%;
+  padding: 1rem;
+}
+
+.student-photo-frame {
+  flex: 0 0 132px;
+
+  figure {
+    margin: 0;
+  }
+}
+
+.student-photo {
+  border-radius: 0.45rem;
+  height: 132px;
+  object-fit: cover;
+  object-position: center;
+  width: 132px;
+}
+
+.student-details {
+  min-width: 0;
+}
+
+.student-name {
+  font-size: 1.1rem;
+  margin: 0 0 0.35rem;
+}
+
+.student-thesis-label {
+  color: var(--global-text-color-light);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  margin: 0 0 0.2rem;
+  text-transform: uppercase;
+}
+
+.student-thesis-title {
+  font-size: 0.95rem;
+  line-height: 1.45;
+  margin: 0;
+}
+
+@media (max-width: 575.98px) {
+  .student-card {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}

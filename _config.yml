@@ -1,20 +1,298 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
+# -----------------------------------------------------------------------------
 # Site settings
-title: Taweewat Somboonpanyakul
-email: taweewat@mit.edu
-description: My professional webpage
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://leogulus.github.io/" # the base hostname & protocol for your site
-twitter_username: leogulus
-github_username:  leogulus
+# -----------------------------------------------------------------------------
 
-google_verify: xc0mbTfFc_M_CZTO7ZbCyInWZkGrgLhD83MMx9lOK38
+title: CHula Astronomy Multidisciplinary Project | Taweewat Somboonpanyakul
+first_name: Taweewat
+middle_name: 
+last_name: Somboonpanyakul
+alternate_name: ทวีวัฒน์ สมบูรณ์ปัญญากุล
+email: taweewat.s@chula.ac.th
+description: > # the ">" symbol means to ignore newlines until "footer_text:"
+  Research group of Taweewat Somboonpanyakul (ทวีวัฒน์ สมบูรณ์ปัญญากุล) at Chulalongkorn University, studying galaxy clusters, active galactic nuclei, and astronomy education in Thailand.
+footer_text: >
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+keywords: Taweewat Somboonpanyakul, ทวีวัฒน์ สมบูรณ์ปัญญากุล, Chulalongkorn University, astronomy, astrophysics, galaxy clusters, active galactic nuclei, radio astronomy, Thailand
 
-# Build settings
+lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+icon: 🔭 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+
+url: https://leogulus.github.io # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+last_updated: false # set to true if you want to display last updated in the footer
+impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+
+# -----------------------------------------------------------------------------
+# Theme
+# -----------------------------------------------------------------------------
+
+# code highlighter theme
+highlight_theme_light: github   # https://github.com/jwarby/jekyll-pygments-themes
+highlight_theme_dark: native    # https://github.com/jwarby/jekyll-pygments-themes
+
+# repo color theme
+repo_theme_light: default       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_trophies:
+  enabled: true
+  theme_light: flat    # https://github.com/ryo-ma/github-profile-trophy
+  theme_dark: gitdimmed  # https://github.com/ryo-ma/github-profile-trophy
+
+# -----------------------------------------------------------------------------
+# Layout
+# -----------------------------------------------------------------------------
+
+navbar_fixed: true
+footer_fixed: true
+
+# Dimensions
+max_width: 800px
+
+# TODO: add layout settings (single page vs. multi-page)
+
+# -----------------------------------------------------------------------------
+# Open Graph & Schema.org
+# -----------------------------------------------------------------------------
+# Display links to the page with a preview object on social media.
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
+og_image: # The site-wide (default for all links) Open Graph preview image
+
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+
+github_username: leogulus # your GitHub user name
+gitlab_username: # your GitLab user name
+twitter_username: # your Twitter handle
+mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+linkedin_username: # your LinkedIn user name
+telegram_username: # your Telegram user name
+scholar_userid: # your Google Scholar ID
+semanticscholar_id: # your Semantic Scholar ID
+whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+orcid_id: 0000-0003-3521-3631 # your ORCID ID
+medium_username: # your Medium username
+quora_username: # your Quora username
+publons_id: # your ID on Publons
+lattes_id: # your ID on Lattes (Brazilian Lattes CV)
+osf_id: # your OSF ID
+research_gate_profile: # your profile on ResearchGate
+scopus_id: # your profile on Scopus
+blogger_url: # your blogger URL
+work_url: # work page URL
+keybase_username: # your keybase user name
+wikidata_id: # your wikidata id
+wikipedia_id: # your wikipedia id (Case sensitive)
+dblp_url: # your DBLP profile url
+stackoverflow_id: # your stackoverflow id
+kaggle_id: # your kaggle id
+lastfm_id: # your lastfm id
+spotify_id: # your spotify id
+pinterest_id: # your pinterest id
+unsplash_id: # your unsplash id
+instagram_id: # your instagram id
+facebook_id: # your facebook id
+youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+discord_id: # your discord id (18-digit unique numerical identifier)
+zotero_username: # your zotero username
+wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+
+contact_note: >
+  The most effective means of reaching me is likely via email. 
+
+# -----------------------------------------------------------------------------
+# Analytics and search engine verification
+# -----------------------------------------------------------------------------
+
+google_analytics: G-X59JLJ41X2 # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
+
+google_site_verification:  # your google-site-verification ID (Google Search Console)
+bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
+
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
+
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
+
+announcements:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # show the five most recent announcements on the home page
+
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
+
+# Markdown and syntax highlight
 markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: false
+      start_line: 1
+
+# Includes & excludes
+include: ['_pages']
+exclude:
+  - bin
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+keep_files:
+  - CNAME
+  - .nojekyll
+  - .git
+
+# Plug-ins
+plugins:
+  - jekyll-email-protect
+  - jekyll-link-attributes
+  - jekyll-minifier
+  - jekyll/scholar
+  - jekyll-sitemap
+  - jekyll-toc
+  - jemoji
+
+# Sitemap settings
+defaults:
+  - scope:
+      path: "assets"
+    values:
+      sitemap: false
+
+# -----------------------------------------------------------------------------
+# Jekyll Minifier
+# -----------------------------------------------------------------------------
+
+jekyll-minifier:
+  exclude: ['robots.txt']
+  uglifier_args:
+    harmony: true
+
+# -----------------------------------------------------------------------------
+# Jekyll Scholar
+# -----------------------------------------------------------------------------
+
+scholar:
+
+  last_name: [Somboonpanyakul]
+  first_name: [Taweewat]
+
+  style: apa
+  locale: en
+
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: bib
+  # Note: if you have latex math in your bibtex, the latex filter
+  # preprocessing may conflict with MathJAX if the latter is enabled.
+  # See https://github.com/alshedivat/al-folio/issues/357.
+  bibtex_filters: [latex, smallcaps, superscript]
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  query: "@*"
+  group_by: year
+  group_order: descending
+
+badges: # Display different badges for your publications
+  altmetric_badge: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
+  dimensions_badge: true # Dimensions badge (https://badge.dimensions.ai/)
+
+# Filter out certain bibtex entry keywords used internally from the bib output
+filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
+
+# Maximum number of authors to be shown for each publication (more authors are visible on click)
+max_author_limit: 3  # leave blank to always show all authors
+more_authors_animation_delay: 10  # more authors are revealed on click using animation; smaller delay means faster animation
+
+
+# -----------------------------------------------------------------------------
+# Jekyll Link Attributes
+# -----------------------------------------------------------------------------
+
+# These are the defaults
+external_links:
+  enabled: true
+  rel: external nofollow noopener
+  target: _blank
+  exclude:
+
+
+# -----------------------------------------------------------------------------
+# Optional Features
+# -----------------------------------------------------------------------------
+
+enable_google_analytics:    true  # enables google analytics
+enable_cronitor_analytics: false  # enables cronitor RUM analytics
+enable_google_verification: false  # enables google site verification
+enable_bing_verification:   false  # enables bing site verification
+enable_masonry:             false  # project cards are not currently used
+enable_math:                false  # enable only when a page needs MathJax
+enable_tooltips:            false  # enables automatic tooltip links generated
+                                   # for each section titles on pages and posts
+enable_darkmode:            true   # enables switching between light/dark modes
+enable_navbar_social:       false  # enables displaying social links in the
+                                   # navbar on the about page
+enable_project_categories:  false  # enable when research project cards are added
+enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
+enable_progressbar:         true   # enables a horizontal progress bar linked to the vertical scroll position
+
+# -----------------------------------------------------------------------------
+# Library versions
+# -----------------------------------------------------------------------------
+
+academicons:
+  version: "1.9.1"
+  integrity: "sha256-i1+4qU2G2860dGGIOJscdC30s9beBXjFfzjWLjBRsBg="
+bootstrap:
+  version: "4.6.1"
+  integrity:
+    css: "sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY="
+    js: "sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8="
+bootstrap-table:
+  version: "1.21.4"
+fontawesome:
+  version: "6.4.0"
+  integrity: "sha256-HtsXJanqjKTc8vVQjO4YMhiqFoXkfBsjBWcX91T1jr8="
+jquery:
+  version: "3.6.0"
+  integrity: "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+mathjax:
+  version: "3.2.0"
+mdb:
+  version: "4.20.0"
+  integrity:
+    css: "sha256-jpjYvU3G3N6nrrBwXJoVEYI/0zw8htfFnhT9ljN3JJw="
+    js: "sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA="
+medium_zoom:
+  version: "1.0.8"
+  integrity: "sha256-7PhEpEWEW0XXQ0k6kQrPKwuoIomz8R8IYyuU1Qew4P8="
+
+# -----------------------------------------------------------------------------
+# CV data
+# -----------------------------------------------------------------------------
+
+jekyll_get_json:
+  - data: resume
+    json: assets/json/resume.json

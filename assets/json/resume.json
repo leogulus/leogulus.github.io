@@ -1,0 +1,146 @@
+{
+  "basics": {
+    "name": "Taweeawt Somboonpanyakul",
+    "label": "Astrophysicist",
+    "image": "",
+    "email": "taweewat.s@chula.ac.th",
+    "phone": "",
+    "url": "https://leogulus.github.io/",
+    "summary": "an astrophysicist with a dedicated focus on extragalactic astronomy, particularly specializing in a specific category of objects known as 'galaxy clusters'.",
+    "location": {
+      "address": "254 Phayathai Road, Pathumwan",
+      "postalCode": "10330",
+      "city": "Bangkok",
+      "countryCode": "Thailand",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "leogulus",
+        "url": "https://twitter.com/leogulus"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Chulalongkorn University",
+      "position": "Lecturer",
+      "url": "https://www.chula.ac.th/",
+      "startDate": "2023-11",
+      "endDate": "Now",
+      "summary": "In the Physics Department"
+    },
+    {
+      "name": "Stanford University",
+      "position": "Postdoctoral Fellow",
+      "url": "https://kipac.stanford.edu/",
+      "startDate": "2021-08",
+      "endDate": "2023-10",
+      "summary": "Researching in the XOC group, under the supervision of Prof. Steve Allen",
+      "highlights": [
+        "X-ray astronomy"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Massachusetts Institute of Technology, Cambridge, MA, USA",
+      "url": "https://www.mit.edu/",
+      "area": "Physics",
+      "studyType": "Doctor of Philosophy (PhD)",
+      "startDate": "2015-08",
+      "endDate": "2021-08",
+      "score": "",
+      "courses": [
+        "Thesis: The Clusters Hiding in Plain Sight (CHiPS) survey, under the supervision of Prof. Michael McDonald"
+      ]
+    },
+    {
+      "institution": "University of Chicago, Chicago, IL, USA",
+      "url": "https://www.uchicago.edu/",
+      "area": "Physics with specialization in Astrophysics",
+      "studyType": "Bachelor of Art (BA)",
+      "startDate": "2011-08",
+      "endDate": "2015-06",
+      "score": "",
+      "courses": [
+        "Honor Thesis: The Circumgalactic Medium in a Diverse Galaxy Environment, under the supervision of Prof. Hsiao-Wen Chen"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "The Kavli Fellowship",
+      "url": "https://kipac.stanford.edu/join-or-visit-us/postdoctoral-opportunities-kipac",
+      "date": "2021",
+      "awarder": "Stanford University",
+      "summary": "Three-year postdoctoral fellowship"
+    },
+    {
+      "title": "MIT Clark Fellow",
+      "url": "https://www.mit.edu/",
+      "date": "2015",
+      "awarder": "Massachusetts Institute of Technology",
+      "summary": "Graduate Research Fellowship"
+    },
+    {
+      "title": "The FOTI Global Leadership Award",
+      "url": "https://www.friendsofutokyo.org/scholarships-grants/futi-travel-award/",
+      "date": "2014",
+      "awarder": "The University of Tokyo, Japan",
+      "summary": "Summer Internship Award for the University of Tokyo Research Internship Program"
+    },
+    {
+      "title": "Walter and Fay Selove Prize in Physics",
+      "url": "https://physics.uchicago.edu/about/prizes-and-fellowships/selove-summer-research-prize/",
+      "date": "2013",
+      "awarder": "University of Chicago",
+      "summary": "Summer Research Award to work under the supervision of a University of Chicago faculty member"
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [
+    {
+      "language": "Thai",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Astrophysics",
+      "icon": "fa-regular fa-moon",
+      "keywords": [
+        "Observational Astronomy",
+        "Galaxy Cluster",
+        "Galaxy Evolution"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "icon": "fa-solid fa-earth",
+      "keywords": [
+        "Data Analysis",
+        "Data Visualization"
+      ]
+    },
+    {
+      "name": "Science Communication",
+      "icon": "fa-solid fa-person",
+      "keywords": [
+        "Stargazing",
+        "Public lectures"
+      ]
+    }
+
+  ],
+  "references": [],
+  "projects": []
+}

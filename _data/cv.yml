@@ -1,0 +1,26 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Taweewat Somboonpanyakul
+    - name: Date of Birth
+      value: 31th August 1991
+    - name: Languages
+      value: English, Thai
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D.
+      institution: Massachusetts Institute of Technology, Cambridge, MA, USA
+      year: 2015 - 2021
+    - title: B.A.
+      institution: University of Chicago, Chicago, IL, USA
+      year: 2011 - 2015
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Postdoctoral Fellow
+      institution: Stanford University, Stanford, CA, USA
+      year: 2021 - 2023
