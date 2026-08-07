@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: CHula Astronomy Multidisciplinary Project | Taweewat Somboonpanyakul
+title: Taweewat Somboonpanyakul | Astrophysicist at Chulalongkorn University
 first_name: Taweewat
 middle_name: 
 last_name: Somboonpanyakul
 alternate_name: ทวีวัฒน์ สมบูรณ์ปัญญากุล
 email: taweewat.s@chula.ac.th
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Research group of Taweewat Somboonpanyakul (ทวีวัฒน์ สมบูรณ์ปัญญากุล) at Chulalongkorn University, studying galaxy clusters, active galactic nuclei, and astronomy education in Thailand.
+  Official website of Taweewat Somboonpanyakul (ทวีวัฒน์ สมบูรณ์ปัญญากุล), astrophysicist and lecturer at Chulalongkorn University, studying galaxy clusters, active galactic nuclei, and astronomy education in Thailand.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -78,8 +78,8 @@ medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-osf_id: # your OSF ID
-research_gate_profile: # your profile on ResearchGate
+osf_id: 5ph9j # your OSF ID
+research_gate_profile: Taweewat-Somboonpanyakul # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
 work_url: # work page URL
