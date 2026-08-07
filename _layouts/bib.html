@@ -130,6 +130,11 @@
         <div class="periodical">
           {{ periodical | strip }}
         </div>
+        {% if entry.summary -%}
+        <div class="summary">
+          {{ entry.summary | strip }}
+        </div>
+        {%- endif %}
         <div class="periodical">
           {{ entry.note | strip }}
         </div>

@@ -639,6 +639,14 @@ footer.sticky-bottom {
         font-weight: bolder;
       }
 
+      .summary {
+        margin-top: 0.35rem;
+        margin-bottom: 0.35rem;
+        color: var(--global-text-color-light);
+        font-size: 0.95rem;
+        line-height: 1.45;
+      }
+
       .author {
         a {
           border-bottom: 1px dashed var(--global-theme-color);
