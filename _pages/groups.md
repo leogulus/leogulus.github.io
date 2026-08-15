@@ -22,6 +22,7 @@ nav_order: 5
           <h3 class="student-name">Puttichai Lorchutnopphakhun <span class="text-muted">(Non)</span></h3>
           <p class="student-thesis-label">Thesis</p>
           <p class="student-thesis-title"><em>The Evolution of Radio-Loud Active Galactic Nuclei in Brightest Cluster Galaxies</em></p>
+          <p class="student-email"><a href="mailto:per.puttichai.l@gmail.com">per.puttichai.l@gmail.com</a></p>
         </div>
       </article>
     </div>
