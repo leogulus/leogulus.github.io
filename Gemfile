@@ -7,7 +7,6 @@ group :jekyll_plugins do
     gem 'jekyll-minifier'
     gem 'jekyll-scholar'
     gem 'jekyll-sitemap'
-    gem 'jekyll-toc'
     gem 'jemoji'
     gem 'mini_racer'
     gem 'unicode_utils'

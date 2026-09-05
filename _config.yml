@@ -165,7 +165,6 @@ plugins:
   - jekyll-minifier
   - jekyll/scholar
   - jekyll-sitemap
-  - jekyll-toc
   - jemoji
 
 # Sitemap settings
