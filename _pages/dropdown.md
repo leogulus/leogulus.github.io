@@ -13,6 +13,7 @@ children:
     - title: divider
     - title: media
       permalink: /media/
+    - title: divider
     - title: others
       permalink: /projects/
 ---
