@@ -48,5 +48,6 @@ nav_order: 6
     <article class="project-card"><h3><a href="https://leogulus-champ.blogspot.com/">My blog</a></h3><p>Travel notes, academic experiences, conference talks, and other interests including data visualization and GIS.</p></article>
     <article class="project-card"><h3><a href="https://jobregister.aas.org/postdoc-application-guidelines">Postdoctoral application guidelines</a></h3><p>Advice from the AAS Job Register on preparing a postdoctoral application.</p></article>
     <article class="project-card"><h3><a href="https://www.dropbox.com/s/7tz2r9tonturigk/Application_Advice.pdf">Unsolicited advice for job applicants</a></h3><p>Daniel Green’s guide to CVs, research statements, and recommendation letters.</p></article>
+    <article class="project-card"><h3><a href="https://arxiv.org/abs/2609.13323">An X-ray Data Primer</a></h3><p>An introductory guide to X-ray data products and analysis.</p></article>
   </div>
 </section>
