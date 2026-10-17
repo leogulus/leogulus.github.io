@@ -3,6 +3,13 @@
 
   <!-- Head -->
   <head>
+  {%- if page.legacy_redirects -%}
+    <script>
+      const legacyRedirects = {{ page.legacy_redirects | jsonify }};
+      const legacyTarget = legacyRedirects[window.location.pathname];
+      if (legacyTarget) window.location.replace(legacyTarget);
+    </script>
+  {%- endif -%}
   {%- if page.redirect -%}
     <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
   {%- endif -%}
