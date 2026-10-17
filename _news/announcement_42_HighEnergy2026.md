@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Sharing CHIPS1911+4455 at the High-Energy Astrophysics Workshop"
-date: 2026-10-17 10:00:00+0700
+title: "⚡ Sharing CHIPS1911+4455 at the High-Energy Astrophysics Workshop"
+date: 2026-10-16 10:00:00+0700
 inline: false
 related_posts: false
 ---
@@ -17,17 +17,20 @@ More information is available on the [workshop website](https://cosimobambi.gith
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/42_HighEnergy2026/01.jpg" title="With my students at the 2nd China-India-Thailand Workshop on High Energy Astrophysics" class="img-fluid rounded z-depth-1" %}
+        <p class="mt-2 text-muted">With my undergraduate and master's students at the workshop.</p>
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/42_HighEnergy2026/02.jpg" title="Presenting CHIPS1911+4455 at the workshop" class="img-fluid rounded z-depth-1" %}
+        <p class="mt-2 text-muted">Presenting CHIPS1911+4455 at the workshop.</p>
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/42_HighEnergy2026/03.jpg" title="A talk by Prof. Cosimo Bambi" class="img-fluid rounded z-depth-1" %}
+        <p class="mt-2 text-muted">A talk by Prof. Cosimo Bambi.</p>
     </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My First Astro Workshop for High School Researchers"
-date: 2026-10-17 09:00:00+0700
+title: "🔭 My First Astro Workshop for High School Researchers"
+date: 2026-10-11 09:00:00+0700
 inline: false
 related_posts: false
 ---
@@ -15,29 +15,34 @@ More than 50 high school students joined us. Seeing the room full of students di
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/41_AstroGateway/01.jpg" title="Participants and organizers at Astro Gateway" class="img-fluid rounded z-depth-1" %}
+        <p class="mt-2 text-muted">Participants and organizers at Astro Gateway.</p>
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/41_AstroGateway/02.jpg" title="A workshop discussion at Astro Gateway" class="img-fluid rounded z-depth-1" %}
+        <p class="mt-2 text-muted">A workshop discussion at Astro Gateway.</p>
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/41_AstroGateway/03.jpg" title="Introducing Astro Gateway to the participants" class="img-fluid rounded z-depth-1" %}
+        <p class="mt-2 text-muted">Introducing Astro Gateway to the participants.</p>
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/41_AstroGateway/04.jpg" title="Students working together during the workshop" class="img-fluid rounded z-depth-1" %}
+        <p class="mt-2 text-muted">Students working together during the workshop.</p>
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/41_AstroGateway/poster.png" title="Astro Gateway event poster" class="img-fluid rounded z-depth-1" %}
+        <p class="mt-2 text-muted">The Astro Gateway event poster.</p>
     </div>
 </div>
